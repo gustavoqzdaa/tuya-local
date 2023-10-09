@@ -12,6 +12,7 @@
 - Devola patio heater
 - Ecostrad Accent iQ heating panels
 - Ecostrad iQ ceramic radiators
+- Eurom Alutherm 1000,1500,2000,2500 heaters
 - Eurom Mon Soleil 300,600,800, 350,601,720 and 300,450,720 Verre heaters
 - Eurom Sani Wall Heat 2000 heater
 - Eurom Wall Designheat 2000 heater
@@ -263,6 +264,7 @@
 
 ### Battery Charger
 
+- Feyree home EV charger
 - Parkside PLGS 2012 A1 smart charger for powertools
 
 ### SmartPlugs/Wall sockets/Wall switches
@@ -432,6 +434,7 @@ of device.
 
 ### Locks
 
+- BSTUOKEY access control keypad
 - Lucking HF06 smart lock
 - Orion Grid Connect smart lock
 
@@ -498,6 +501,7 @@ port and password.
 - Qoto 03 smart water valve / sprinkler controller
 - SD123 HPR01 human presence radar
 - SH07-8 smart sprinkler controller
+- Sunbeam dual heated mattress pad 
 - SWS-001 smart weather station
 - TH08 temperature and humidity sensor
 - TH16 temperature and humidity sensor 

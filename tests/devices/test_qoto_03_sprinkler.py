@@ -1,4 +1,5 @@
 """Tests for the Quto 03 Sprinkler."""
+
 from homeassistant.components.binary_sensor import BinarySensorDeviceClass
 from homeassistant.const import PERCENTAGE, UnitOfTime
 
@@ -27,7 +28,7 @@ class TestQotoSprinkler(
         self.setUpForConfig("qoto_03_sprinkler.yaml", QOTO_SPRINKLER_PAYLOAD)
         self.setUpBasicBinarySensor(
             ERROR_DPS,
-            self.entities.get("binary_sensor_error"),
+            self.entities.get("binary_sensor_problem"),
             device_class=BinarySensorDeviceClass.PROBLEM,
             testdata=(1, 0),
         )
@@ -58,13 +59,14 @@ class TestQotoSprinkler(
                 {
                     "name": "sensor_timer",
                     "dps": COUNTDOWN_DPS,
+                    "device_class": "duration",
                     "unit": "s",
                 },
             ]
         )
         self.mark_secondary(
             [
-                "binary_sensor_error",
+                "binary_sensor_problem",
                 "number_timer",
                 "sensor_open",
                 "sensor_timer",

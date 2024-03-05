@@ -101,7 +101,7 @@
 - Garden PAC pool heatpump (also works with Summerwave Si Series)
 - IPS Pro pool-systems heatpump (seems to match Fairland Inver-X as well)
 - Madimack Eco pool heatpump
-- Madimack Elite V3 pool heatpump
+- Madimack Elite V3 pool heatpump (two versions)
 - Madimack(model unknown) pool heatpump (seems to match Fairland IPH45 as well)
 - Poolex Silverline, Q-7, Q-line, Arctic and Vertigo heatpumps
 - Remora pool heatpump
@@ -139,6 +139,7 @@
 - Beok TR8B thermostat
 - Beok TR9B thermostat _(rebadged as Vancoo and perhaps others)_
 - BHT-002-GALW thermostat _(rebadged as many different brands)_
+- BHT-002-GABW thermostat _(some compatible with GALW, others subtly different)_
 - Brade MC6 thermostat _(rebadged as many different brands)_
 - ETOP-FCU thermostat (Jaga JRT-100TW)
 - ETOP-HP thermostat (CH7100)
@@ -331,6 +332,7 @@
 - Taxnele circuit breaker and energy meter
 - TOMPD-63LW energy meter circuit breaker
 - Tongou QCB2-WB WiFi 4P circuit breaker (3-phase and single phase variants)
+- Tongou ST463JWT 4P 3-phase circuit breaker
 - V-WIFI-DL02-ES energy consumption clamp meter
 - WDYK 2P63A energy meter
 - WDYK 3 phase 4 pole 400V energy meter circuit breaker
@@ -458,6 +460,7 @@ of device.
 - iHD001 LED controller
 - Kojima motion sensor RGBCW nightlight
 - Lexi Lighting string light Wifi adapter
+- LightStar CCT track light
 - Loycco sound machine with nightlight (also sold as Momland nightlight with white noise)
 - Loginovo TV sync backlight
 - Lytmi Fantasy/Neo 3 HDMI sync backlight
@@ -481,6 +484,7 @@ of device.
 - Simple garage door
 - Simple blind controller (two variants - `simple_blinds` lets the position be set, but does not trust it to accurately reflect the current position always, `position_blinds` does trust the position to accurately reflect the current position)
 - Simple gate opener (simple garage door with timer)
+- Curtain with feedback (same DP layout as QS C01 curtains, but reads back the current_position from the position as some of these seem to accuraately report position as well)
 - Abalon BCM700D curtain motor (likely to work with other brands)
 - AGL Ultracontato r2 door controller
 - AGL Ultra Magic gate opener
@@ -491,6 +495,7 @@ of device.
 - CCB-11 blind controller
 - CC curtain controller 1
 - Dongguan garage door
+- Dongguan LY1678-2 curtain robot
 - Dooya curtain motor
 - Etersky curtain switch with backlight and timing control
 - FS-03W curtain switch with backlight control
@@ -635,6 +640,8 @@ port and password.
 - Qoto 05 smart water valve / sprinkler controller
 - SD123 HPR01 human presence radar
 - SH07-8 smart sprinkler controller
+- SNT957W-TDE temperature sensor
+- SNT957W-DE CBU temperature and humidity sensor
 - Sunbeam dual heated mattress pad
 - SWS-001 smart weather station
 - TH08 temperature and humidity sensor
@@ -662,6 +669,7 @@ port and password.
 - Ironzon fingerprint lock
 - Orion DL021HA lock
 - PT216/PT19DB-2 temperature and humidity sensor
+- SGS01 plant sensor
 - Smart Ape solar garden light
 - TH05 temperature and humidity sensor
 - Generic water timers (confirmed with Johgee, Diivoo and Royal Gardineer branded devices)

@@ -37,6 +37,7 @@
 - Kogan flame effect heater - KAWHMFP20BA model
 - Kogan tower heater - KASTHFP2KWA model
 - Kogan Wi-Fi convection panel heaters - KAHTP and KAWFHTP models
+- Lehmann LHOHC-2013C electric radiator
 - Mellerware Comfy electric radiator (tested with Medium 1200W)
 - Modern Flames Orion fireplace
 - MRC Magnum floor heating
@@ -144,11 +145,13 @@
 - ETOP-FCU thermostat (Jaga JRT-100TW)
 - ETOP-HP thermostat (CH7100)
 - ETOP-HT thermostat
+- Hysen HY02TP thermostat
 - Hysen HY08ACF thermostat
 - Hysen HY08WE-2 thermostat
 - Inkbird ITC306A thermostat smartplug
 - Inkbird ITC308 thermostat smartplug
 - Jiahong ET-72W thermostat
+- KKMoon knob thermostat
 - Ledlux thermostat
 - ME80 touchscreen thermostat
 - Minco MH-1823D thermostat
@@ -196,6 +199,7 @@
 - Keyun MKCFE002 RGB chandelier fan
 - Kogan bladeless fans
 - Mantra ceiling fan with light
+- Orison RGB ambient bladeless ceiling fan
 - Ovlaim ceiling fan with cool/warm white dimmable light
 - Reiga 52 ceiling fan with light
 - Royal Clima RCB 150 ventilation system
@@ -293,6 +297,7 @@
 - Cadance ultrasonic aroma diffuser with light and music playback
 - Ditua DT-1522-YN aroma diffuser
 - Etersky aroma diffuser with light
+- Maxico aroma diffuser with light (cannot be differentiated automatically from Ditua above)
 - Tesla Smart aroma diffuser with light
 - YX316WIFI aroma diffuser
 - YYM-805SW aroma diffuser with light (also supports GX Aroma diffuser)
@@ -399,6 +404,7 @@ the best option.
 - Somgam double wall switch
 - Teckin SS42 outdoor double smartplug
 - Tellur 3 outlet + USB power strip with individual timers
+- WF-WS02 RJ dual switch with master
 - Woox R4028/DIGOO DG-PS01 3 outlet + USB powerstrip with individual timers
 
 Other brands may work with the above configurations, or the below are
@@ -503,6 +509,7 @@ of device.
 - Dongguan garage door
 - Dongguan LY1678-2 curtain robot
 - Dooya curtain motor
+- Eruiklink curtain motor
 - Etersky curtain switch with backlight and timing control
 - FS-03W curtain switch with backlight control
 - Graywind window shades
@@ -511,9 +518,11 @@ of device.
 - LoraTap GDC100W garage door opener
 - LoraTap QCSC420W double curtain switch
 - LoraTap SC500W-V1 curtain switch (supports many other simple curtain/blind controllers)
+- LS830-TY curtain
 - M027 curtain module (sold under several brands, including zemismart, meterk and others)
 - M515 curtain motor
-- Moes SCS80 Touch curtain swich with backlight and timing control
+- Moes SCS80 Touch curtain switch with backlight and timing control
+- Moes WS-Y-EUC curtain switch with backlight and timing control
 - QS-WIFI-C01(BK) curtain module
 - SHerko curtain motor
 - SmartCurtains A-series ACS-WT curtain motor (may work for other models)
@@ -553,10 +562,14 @@ of device.
 
 ### Locks
 
+Note: Locks that are battery powered and do not use a hub are unlikely to
+work reliably, even if listed below.
+
 - BSTUOKEY access control keypad
 - Lucking HF06 smart lock
 - Orion Grid Connect smart lock
 - SmarDeer Lock33 smart lock
+- Tediton K7 smart lock
 
 ### Sirens
 
@@ -576,6 +589,7 @@ configured using RTSP or ONVIF feeds if they have static IP address,
 port and password.
 
 - BCom Majic IPBox intercom camera
+- Camnsmart E27-TY camera
 - Kerui 200W camera
 - Kerui JS-P162 300W camera
 - Nedis outdoor camera
@@ -622,6 +636,7 @@ port and password.
 - Qoto 03 smart water valve / sprinkler controller
 - Qoto 05 smart water valve / sprinkler controller
 - SH07-8 smart sprinkler controller
+- Zemismart DP-WBS01 8-zone sprinkler controller (also sold as Benexmart and other brands)
 
 ### Miscellaneous
 
@@ -644,6 +659,7 @@ port and password.
 - Kogan KAWHTNOSLPA white noise sleep aid
 - Konlen/Rockson WF96L water level controller
 - Leo's Loo Too pet toilet
+- Madimack Inverflow Pro pool pump
 - Mirabella Genio motion sensor
 - Momcozy white noise machine (2 variants)
 - Nedis WIFISA10CWT air quality monitor
@@ -706,6 +722,7 @@ port and password.
 - MultiIR MIR-TE100-TY temperature and humidity sensor
 - Nedis ZBSD10WT door/window sensor
 - Nedis ZBSC10WT temperature and humidity sensor
+- PY321-Z-TY energy meter
 - Temperature and humidity sensor with alarm feature
 - ZTH08ZTU temperature and humidity sensor
 

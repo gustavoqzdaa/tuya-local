@@ -518,7 +518,7 @@ Further device support has been made with the assistance of users. Please consid
 - [popokio](https://github.com/popokio) for assisting with support for Plikc Neve X RFW thermostats.
 - [popeen](https://github.com/popeen) for contributing support for Silvercrest Coffee makers.
 - [ciotorcristian](https://github.com/ciotorcristian) for contributing support for HoneyGuardian S56 pet feeder.
-- [Dexter-Lucky](https://github.com/Dexter-Lucky) for assisting with support for Zigbee PY321-Z-TY energy meters.
+- [Dexter-Lucky](https://github.com/Dexter-Lucky) for assisting with support for Zigbee PY321-Z-TY energy meters, Moes BRT-100-TRV radiator valves, and Yueqing Combo curtain motors.
 - [teeodor](https://github.com/teeodor) for assisting with support for Maxico aroma diffusers.
 - [gvermaat](https://github.com/gvermaat) for assisting with support for Hysen HY02TP thermostats.
 - [korzeniewski36](https://github.com/korzeniewski36) for assisting with support for KKMoon knob thermostats.
@@ -538,3 +538,5 @@ Further device support has been made with the assistance of users. Please consid
 - [nec-k](https://github.com/nec-k) for contributing improvements to PJ1103 clamp meters.
 - [dieu](https://github.com/dieu) for assisting with support for Nice Digi locks.
 - [Klaus3d3](https://github.com/Klaus3d3) for assisting with support for Vevor portable EV chaargers.
+- [spunky3378](https://github.com/spunky3378) for contrributing German language translations.
+- [n4rrOx](https://github.com/n4rrOx) for contributing support for Multi Leaf DY-107 thermostats.

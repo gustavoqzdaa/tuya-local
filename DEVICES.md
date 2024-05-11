@@ -20,6 +20,7 @@
 - Eurom Alutherm 1000,1500,2000,2500 heaters
 - Eurom Hot-Shot 2000 heaters
 - Eurom Mon Soleil 300,600,800, 350,601,720 and 300,450,720 Verre heaters
+- Eurom Sani heated towel rail
 - Eurom Sani Wall Heat 2000 heater
 - Eurom Wall Designheat 2000 heater
 - Goldair heater models beginning with the code GPPH, GCPV, GECO
@@ -61,6 +62,7 @@
 - Arlec PA1123BKHA portable air conditioner
 - Be Cool BC14KL2101F
 - Carson CB PA280
+- Confortotal CICON242 mini split air conditioner
 - Cooper&Hunter Nordic Evo Ng
 - Costway portable air conditioner
 - Daewoo Dhome OL-A011 air conditioner (DA9KWE)
@@ -72,6 +74,7 @@
 - ElectriQ 12WMINV
 - ElectriQ Airflex 15W
 - ElectriQ EcoSilent 14HPW
+- ElectriQ EcoSilent 12WAP
 - Fersk Vind 2
 - Fisher Summer air conditioner
 - Idea Heating Belt (with CS1 USB dongle)
@@ -133,6 +136,7 @@
 - Avatto WT100 thermostat
 - Awow/Mi-heat TH213 thermostat (two variants)
 - Beca BAC-002 thermostat (confirmed on BAC-005 also, likely works with other BAC-00x models)
+- Beca BAC-006 thermostat (sometimes known as BHT-006)
 - Beca BHT-002/3000 floor heating thermostat (with external temp sensor)
 - Beca BHP-6000 room heat pump control thermostat
 - Beca BHT-6000/8000 floor heating thermostat
@@ -576,6 +580,7 @@ work reliably, even if listed below.
 - Orion Grid Connect smart lock
 - SmarDeer Lock33 smart lock
 - Tediton K7 smart lock
+- NovaDigital SL-06 smart lock
 
 ### Sirens
 
@@ -641,7 +646,7 @@ port and password.
 - Holman WX8 8 sprinkler irrigation controller
 - Qoto 03 smart water valve / sprinkler controller
 - Qoto 05 smart water valve / sprinkler controller
-- SH07-8 smart sprinkler controller
+- SH07-8 / SH07S-TY smart sprinkler controller (sold as Aquarobo and other brands)
 - Zemismart DP-WBS01 8-zone sprinkler controller (also sold as Benexmart and other brands)
 
 ### Miscellaneous
@@ -697,6 +702,7 @@ port and password.
 ### Devices supported via Bluetooth hubs
 
 - Adaprox Fingerbot plus
+- Arlec smart button
 - Diivoo WT05 dual water timer
 - HCT-611 water timer
 - HU06 smart lock

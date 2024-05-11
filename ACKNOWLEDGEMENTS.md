@@ -92,7 +92,7 @@ Further device support has been made with the assistance of users. Please consid
 - [odeBuXTeR](https://github.com/odeBuXTeR) for contributing support for Poolex Q-line pool heatpumps.
 - [peterforeman](https:github.com/peterforeman) for assistance with improving Fairland/Madimack support.
 - [Krispkiwi](https://github.com/Krispkiwi) for assistance with M027 curtain modules, Smart Ape solar lights and debugging Kogan Kettle.
-- [craibo](https://github.com/craibo) for contributing support for Jiahong ET-72W thermostats.
+- [craibo](https://github.com/craibo) for contributing support for Jiahong ET-72W thermostats and fixes for HA 2024.5 startup changes.
 - [x-keita](https://github.com/x-keita) for contributing support for Betterlife BL1500 IR heaters and Nexxt smart switches.
 - [Der-Nax](https:github.com/Der-Nax) for assistance with a second variant of energy monitoring smart switch and for contributing support for PY321-TY power clamps, Compteur smart meters and sensors on a Universal Remote Control.
 - [17hoehbr](https://github.com/17hoehbr) for assistance supporting APOSEN A550
@@ -540,3 +540,10 @@ Further device support has been made with the assistance of users. Please consid
 - [Klaus3d3](https://github.com/Klaus3d3) for assisting with support for Vevor portable EV chaargers.
 - [spunky3378](https://github.com/spunky3378) for contrributing German language translations.
 - [n4rrOx](https://github.com/n4rrOx) for contributing support for Multi Leaf DY-107 thermostats.
+- [awensaunders](https://github.com/awensaunders) for contributing support for ElectriQ Eco Silent 12WAP air conditioners.
+- [pabsi](https://github.com/pabsi) for contributing support for Beca BAC-006 thermostats.
+- [gravy6](https://github.com/gravy6) for contributing support for Arlec smart buttons.
+- [rudironsonijr](https://github.com/rudironsonijr) for contributing support for NovaDigital SL-06 door locks.
+- [jan-gerard](https://github.com/jan-gerard) for contributing support for Eurom Sani towel rails.
+- [gkwok1](https://github.com/gkwok1) for contributing support for Confortotal mini split air conditioners.
+- [hroussez](https://github.com/hroussez) for contributing ANWIO lightbulb compatibility info.

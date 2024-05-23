@@ -81,6 +81,11 @@
                 }
             }
         },
+        "sensor": {
+            "time_remaining": {
+                "default": "mdi:timer"
+            }
+        },
         "switch": {
             "anti_frost": {
                 "default": "mdi:snowflake-melt"
@@ -90,6 +95,22 @@
             },
             "uv_sterilization": {
                 "default": "mdi:solar-power"
+            },
+            "keytone": {
+                "default": "mdi:bell-ring"
+            }
+        },
+        "fan": {
+            "fan_with_presets": {
+                "state_attributes": {
+                    "preset_mode": {
+                        "state": {
+                            "smart": "mdi:auto-mode",
+                            "normal": "mdi:fan",
+                            "sleep": "mdi:sleep"
+                        }
+                    }
+                }
             }
         }
     }

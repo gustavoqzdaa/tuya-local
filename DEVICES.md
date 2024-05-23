@@ -26,7 +26,7 @@
 - Goldair heater models beginning with the code GPPH, GCPV, GECO
 - Hama radiator controller
 - Heatstorm HS-6000-GC heavy duty heater
-- Herschel infrared heater 
+- Herschel infrared heater
 - HJZ oil column radiator
 - Hombli radiator controller
 - INOW Wi-Fi heating element (single and dual air/water temperature control variants)
@@ -50,6 +50,7 @@
 - Purline Hoti M100 heater
 - Quality Heating QH-GD Elegant Series IR panel heaters
 - Rumba bathroom heater
+- Semptec ZX7007 infrared heater
 - SolAire Vitra S2 panel heater
 - Sonnenkonig Eco 700 IR panel heater (probably also other Eco/Elegance series heaters)
 - Taurus Agadir Connect oil column heaters
@@ -110,6 +111,7 @@
 - Madimack Elite V3 pool heatpump (two versions)
 - Madimack(model unknown) pool heatpump (seems to match Fairland IPH45 as well)
 - Poolex Silverline, Q-7, Q-line, Arctic and Vertigo heatpumps
+- Pro-Energy PE08 pool heatpump
 - Remora pool heatpump
 - W'eau pool heatpump (simple model and a more complex 13kW model)
 
@@ -194,7 +196,7 @@
 - Deta fan controller
 - Djive ARC humidifying fan
 - Duux Whisper Flex pedestal fan
-- Eglo 5 speed + sleep ceiling fan 
+- Eglo 5 speed + sleep ceiling fan
 - Fanco Eco Silent Deluxe ceiling fan with LED light
 - Goldair GCPF315 fan
 - Goldair Platinum tower fan (2 variants)
@@ -238,6 +240,7 @@
 - Proscenic A9 air purifier
 - Renpho RP-AP001S air purifier
 - Smartmi E1 air purifier
+- Soho SO-350WUI Air Purifier
 - Soleusair A02 and A10 air purifiers
 - Stadler Form Roger air purifier
 - Tesla Smart Pro and Mini air purifiers
@@ -351,7 +354,7 @@
 - V-WIFI-DL02-ES energy consumption clamp meter
 - WDYK 2P63A energy meter
 - WDYK 3 phase 4 pole 400V energy meter circuit breaker
-- Yagusmart 3PN 63A 3-phase eneregy meter 
+- Yagusmart 3PN 63A 3-phase eneregy meter
 - ZM-Wi-Fi smart meter
 
 ### Battery Charger
@@ -561,9 +564,10 @@ of device.
 - Medion S20 SW vacuum cleaner with mop
 - Mellerware City Move vacuum cleaner
 - Neatsvor X600 vacuum cleaner
+- OPK K2 vacuum cleaner
 - Proscenic M9 vacuum cleaner
 - Rinkmo D2 vacuum cleaner
-- Tefal X-plorer serie 75 animal vacuum 
+- Tefal X-plorer serie 75 animal vacuum
 - Tesvor S6 vacuum cleaner with mop
 - TTEC Robi Pro vacuum cleaner
 - Ultenic T10 vacuum cleaner
@@ -603,8 +607,10 @@ port and password.
 
 - BCom Majic IPBox intercom camera
 - Camnsmart E27-TY camera
+- Door peephole camera
 - Kerui 200W camera
 - Kerui JS-P162 300W camera
+- LSC PTZ camera
 - Nedis outdoor camera
 - Pinelake BF02 birdfeeder camera
 - RL video intercom (reported unable to connect)
@@ -704,8 +710,10 @@ port and password.
 ### Devices supported via Bluetooth hubs
 
 - Adaprox Fingerbot plus
+- Ailrinni fingerprint door lock
 - Arlec smart button
 - Diivoo WT05 dual water timer
+- Gainsborough Liberty entrance lock
 - HCT-611 water timer
 - HU06 smart lock
 - Ironzon fingerprint lock

@@ -90,9 +90,10 @@
 - Royal Sovereign RSAI-12SA mini split air conditioner
 - Sencor MT7048C air conditioner
 - Sendo air conditioner
+- Sensei Air Conditioner
 - Star-Light air conditioner (also confirmed to work with Polar branded devices)
 - Suntec Wellness Coolfixx portable air conditioner
-- Tesla Smart TAF series air conditioner
+- Tesla Smart TAF and AUX series air conditioners
 - TroniTechnik Hellnar Klimagerät
 - Trotec PAC-W 2600 SH heatpump
 - Vivax Cool ACP-12CH35REWI
@@ -111,6 +112,7 @@
 - Madimack Elite V3 pool heatpump (two versions)
 - Madimack(model unknown) pool heatpump (seems to match Fairland IPH45 as well)
 - Poolex Silverline, Q-7, Q-line, Arctic and Vertigo heatpumps
+- Poolsana InverPower Next pool heatpump
 - Pro-Energy PE08 pool heatpump
 - Remora pool heatpump
 - W'eau pool heatpump (simple model and a more complex 13kW model)
@@ -128,6 +130,7 @@
 - Geyserwise TSE1 Geyser controller kit
 - Hydrotherm Dynamic/X8 heat pump hot water systems (Gen 5 and 6)
 - ITS-4.5HD super water heatpump
+- Koi Duo HTW-TD-080KOID
 - Thermex IF series V pro hot water systems
 - Thermex Lima 80V
 
@@ -178,6 +181,7 @@
 
 ### Fans
 
+- Amico 52" ceiling fan with light
 - Anko HEGSM40 fan
 - Arlec ceiling fan and light remote control kit (CFR225HA)
 - Arlec Grid Connect smart ceiling fan (with and without light)
@@ -193,6 +197,7 @@
 - Cecotec ceiling fan with light
 - Chanfok ceiling fan with cool/warm white dimmable light
 - CleanAir 604B humidifier
+- Depauley WS-FPZ37-18I-EU ceiling fan with light
 - Deta fan controller
 - Djive ARC humidifying fan
 - Duux Whisper Flex pedestal fan
@@ -279,6 +284,7 @@
 - JJPro JPD02 dehumidifier
 - Klarstein DryFy Pro Connect dehumidifier
 - Kogan SmarterHome 7L desiccant dehumidifier
+- Luko dehumidifier
 - Pro Breeze 30L dehumidifier
 - Shinco 30D dehumidifier (also matches Klarstein DryFy Connect)
 - Tesla Smart XL dehumidifier
@@ -362,6 +368,7 @@
 - EcoPoint EV charger
 - EVSun EV charger
 - Feyree home EV charger (2 models)
+- Kolanky 3.6kW EV charger
 - Parkside PLGS 2012 A1 smart charger for powertools
 - Vivor portable EV charger
 
@@ -397,6 +404,8 @@ the best option.
 - Grid Connect double outlet with Energy Monitoring, Master and Individual switches and Child Lock
 - Grid Connect USB charger with power socket
 - Inna/Automat-ON AUTO000014 7 channel underfloor heating controller
+- JH PCIe mini computer switch
+- JH PCIe pro+ computer switch
 - Linkoze LKWSW201 dual button
 - Logicom Strippy 4 way power strip with USB
 - Loratap RR400W-V2 relay switch
@@ -487,6 +496,7 @@ of device.
 - LightStar CCT track light
 - Loycco sound machine with nightlight (also sold as Momland nightlight with white noise)
 - Loginovo TV sync backlight
+- LSC smart connect RGB CCT lightbulb (similar to older generic bulbs, so may work for others) 
 - Lytmi Fantasy/Neo 3 HDMI sync backlight
 - Marpou RGBCW ceiling light
 - Mirabella Genio Pixel LED oval light
@@ -649,6 +659,7 @@ port and password.
 - Aubess Rainpoint TTP106W irrigation system
 - Becasmart BAF-908 irrigation system
 - Garza Wi-Fi garden irrigation system (ITV103W with 433MHz WiFi hub)
+- Hoenyzy DN15 / DN20 / DN25 gas and water valve timers
 - Holman WX1 tap timer (sprinkler controller)
 - Holman WX2 dual tap timer
 - Holman WX8 8 sprinkler irrigation controller
@@ -715,6 +726,7 @@ port and password.
 - Diivoo WT05 dual water timer
 - Gainsborough Liberty entrance lock
 - HCT-611 water timer
+- HCT-626 dual water timer
 - HU06 smart lock
 - Ironzon fingerprint lock
 - MoistenLand water timer
@@ -724,6 +736,7 @@ port and password.
 - SGS01 plant sensor
 - Smart Ape solar garden light
 - TH05 temperature and humidity sensor
+- XCase NX-4964 lock box
 - YSG BS01 lock
 - Generic water timers (confirmed with Johgee, Diivoo and Royal Gardineer branded devices)
 

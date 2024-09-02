@@ -19,7 +19,7 @@ Further device support has been made with the assistance of users. Please consid
 - [cartman10](https://github.com/cartman10) for assistance with BWT FI 45 pool heater.
 - [superman110](https://github.com/superman110) for assistance in supporting Eanons/purenjoy humidifier and SD123 human presence radar.
 - [woolmonkey](https://github.com/woolmonkey) for assistance in supporting Inkbird ITC306A Thermostat.
-- [hazell20](https://github.com/hazell20) for assistance in supporting Anko fans.
+- [hazell20](https://github.com/hazell20) for assistance in supporting Anko fans and Kogan vertical window air conditioners.
 - [meremortals70](https://github.com/meremortals70) for assistance in supporting Deta fan controllers.
 - [mvnixon](https://github.com/mvnixon) for assistance in supporting Madimack pool heaters.
 - [Lapy](https://github.com/Lapy) for contributing support for Electriq CD25PRO dehumidifiers.
@@ -548,7 +548,7 @@ Further device support has been made with the assistance of users. Please consid
 - [gkwok1](https://github.com/gkwok1) for contributing support for Confortotal mini split air conditioners and BLE Pulido P13 locks.
 - [hroussez](https://github.com/hroussez) for contributing ANWIO lightbulb compatibility info.
 - [bdraco](https://github.com/bdraco) for advice on correct use of HA threading/task functions.
-- [sj29fr](https://github.com/sj29fr) for contributing support for Stepuptech SG800 solar inverters.
+- [sj29fr](https://github.com/sj29fr) for contributing support for Stepuptech SG800 and SPD800 solar inverters.
 - [wbln](https://github.com/wbln) for contributing support for Tefal X-plorer animal vacuums.
 - [TroLoos](https://github.com/TroLoos) for contributing support for Pro-Energy PE08 pool heatpumps.
 - [simplelnx](https://github.com/simplelnx) for contributing support for OPK K2 vacuums.
@@ -635,3 +635,16 @@ Further device support has been made with the assistance of users. Please consid
 - [r3pek](https://github.com/r3pek) for contributing support for Smart Mist3 fan.
 - [reniko](https://github.com/reniko) for contributing support for TOPENS TC196 remote control.
 - [MarvinBeym](https://github.com/MarvinBeym) for contributing support for Medion Life P1002 portable air conditioner.
+- [jon-sanders](https://github.com/jon-sanders) for contributing support for Faroro pet feeder.
+- [edev-us](https://github.com/edev-us) for contributing support for Sobralik pet fountain.
+- [Dedemoos](https://github.com/Dedemoos) for contributing improvements for SWS01 weather station.
+- [David-Eilers](https://github.com/David-Eilers) for contributing support for Calex S45 Clear E27 lightbulb.
+- [pelle2011](https://github.com/pelle2011) for contributing support for AquaForte Inverter VSP pool pump.
+- [tv4you2016](https://github.com/tv4you2016) for contributing support for Cecotec ForceClima Soundless air conditioner.
+- [danieljohngomez](https://github.com/danieljohngomez) for assisting with support for BSTUOKEY invisible door lock.
+- [robinhood-code](https://github.com/robinhood-code) for assisting with support for Arlec USB strip lights.
+- [drcjb](https://github.com/drcjb) for assisting with support for Princess DC pedestal fan.
+- [azdinet](https://github.com/azdinet) for assisting with support for TS106 alarm system.
+- [deguchi-m](https://github.com/deguchi-m) for assisting with support for Dual CT clamp bidirectional energy meters.
+- [sciux2](https://github.com/sciux2) for assisting with support for RSE TY-WFH gate controller.
+- [schmurgel-tg](https://github.com/schmurgel-tg) for assisting with support for Create ceiling fan with light.

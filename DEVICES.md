@@ -65,6 +65,7 @@
 - Arlec PA1123BKHA portable air conditioner
 - Be Cool BC14KL2101F
 - Carson CB PA280
+- Cecotec ForceClima Soundless portable air conditioner
 - Confortotal CICON242 mini split air conditioner
 - Cooper&Hunter Nordic Evo Ng
 - Costway portable air conditioner
@@ -85,6 +86,7 @@
 - Inventor Leon (Tokens Legend series) air conditioner
 - Klarstein Iceblock Ecosmart air conditioner
 - Kogan portable air conditioners (Y09, Y12, Y16)
+- Kogan vertical window air conditioner
 - Lyfco OL-A012 air conditioner
 - Medion Life P1002 portable air conditioner
 - Monzana Klimaanlage air conditioner
@@ -206,6 +208,7 @@
 - Cecotec ceiling fan with light
 - Chanfok ceiling fan with cool/warm white dimmable light
 - CleanAir 604B humidifier
+- Create XW-FAN-215-D ceiling fan with light
 - Depauley WS-FPZ37-18I-EU ceiling fan with light
 - Deta fan controller
 - Djive ARC humidifying fan
@@ -227,6 +230,7 @@
 - Orison Chanfok Neo ceiling fan with light
 - Orison RGB ambient bladeless ceiling fan
 - Ovlaim ceiling fan with cool/warm white dimmable light
+- Princess DC pedestal fan
 - Reiga 52 ceiling fan with light
 - Royal Clima RCB 150 ventilation system
 - Skyfan DC fan
@@ -362,6 +366,7 @@
 - Compteur digital electric (single phase)
 - Dcenta dual clamp meter
 - DTS238-7 3 phase smart meter
+- Dual CT clamp bidirectional meter
 - EARU SW RCB breaker
 - eMylo EAI-90 smart meter
 - ERZ04C smart meter
@@ -374,6 +379,7 @@
 - SG600MD solar inverter (also SG700MD, other SGxx0MD and SGxx0W models) sold under various brands
 - SmartMCB SMT006 energy meter (10 byte and 8 byte phase info variants)
 - Stepuptech SG800 solar inverter
+- Stepuptech SPD800 solar inverter
 - Taxnele circuit breaker and energy meter
 - TOMPD-63LW energy meter circuit breaker
 - Tongou QCB2-WB WiFi 4P circuit breaker (3-phase and single phase variants)
@@ -511,6 +517,7 @@ of device.
 - A60 1800-2700K RGBWW light
 - Atomi smart color string light
 - Blitzwolf BW-LT31 LED strip
+- Calex S45 Clear E27 lightbulb
 - Deta/Arlec motion sensor lights (DET100HA/DET102HA/MAL315HA)
 - Deta 6910HA series2 dimmer switch
 - Dim2Warm G95 Gold 1800-2700K CCT lightbulb
@@ -668,6 +675,7 @@ port and password.
 - BlitzWolf BW-IS6 security alarm system
 - GauTone PG-103 security alarm system
 - Smart alarm siren (unbranded)
+- TS106 alarm system
 - Wolf Guard WT2R alarm system
 - ZX-DB11 doorbell and alarm system
 - ZX-DB11B doorbell and alarm system
@@ -680,6 +688,7 @@ port and password.
 - Ceres Plus pet feeder with camera
 - Doel cat litter box
 - Els Pet Spaceship pet litter box
+- Faroro PF50 pet feeder
 - HoneyGuardian S56 pet feeder
 - Leo's Loo Too pet toilet
 - Littepets MA2 series Cute Baby cat litter box
@@ -689,6 +698,7 @@ port and password.
 - Petoneer Fresco Hydrate Ultra pet fountain/
 - PNI water feeder
 - Rojeco PTM-001 pet feeder (two versions)
+- Sobralik pet fountain
 - Tesla Smart pet feeder
 - Tonepie T1PRO automatic cat litter box
 - V330L pet feeder
@@ -722,6 +732,7 @@ port and password.
 - generic illuminance sensor
 - Air Housekeeper 6-in-1 air quality monitor
 - Akai heat pump clothes dryer
+- AquaForte Inverter VSP pool pump
 - ASIP-0622 indoor planter
 - Brennenstuhl WFD3050P PIR motion activated CCT spotlight
 - Bresser smart 7-in-1 weather station
@@ -744,6 +755,7 @@ port and password.
 - PH-W218 water quality monitor
 - PlantsIO Ivy smart planter
 - PV28-CW 8 in 1 air quality monitor
+- RSE TY-WFH v3.01 gate controller 
 - RTCZ-03 human presence sensor
 - RainPoint TTV103FRF water timer
 - SD123 HPR01 human presence radar
@@ -773,6 +785,8 @@ port and password.
 - Adaprox Fingerbot plus
 - Ailrinni fingerprint door lock
 - Arlec smart button
+- Arlec usb strip light
+- BSTUOKEY Invisible induction door lock
 - Diivoo DWV010 dual water timer
 - Diivoo WT05 dual water timer
 - Gainsborough Liberty entrance lock

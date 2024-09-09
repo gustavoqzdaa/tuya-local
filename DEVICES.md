@@ -103,6 +103,7 @@
 - Tesla Smart TAF and AUX series air conditioners
 - TroniTechnik Hellnar Klimagerät
 - Trotec PAC-W 2600 SH heatpump
+- Vaco Moby Blue 14 / Arrifana 16 portable heatpump
 - Vivax Cool ACP-12CH35REWI
 - Vivion 300123/4/5 air conditioners
 - Woods Cortina portable air conditioner
@@ -188,6 +189,7 @@
 - Saswell C16 thermostat _(rebadged as Warmme, Klima and others)_
 - Saswell T29UTW thermostat
 - T5E-WF thermostat
+- Thermoval TVT40 thermostat
 
 ### Fans
 
@@ -216,9 +218,11 @@
 - Duux Whisper Flex Ultimate
 - Eglo 5 speed + sleep ceiling fan
 - Fanco Eco Silent Deluxe ceiling fan with LED light
+- FlinQ Breeze indoor pedestal fan
 - Goldair GCPF315 fan
 - Goldair Platinum tower fan (2 variants)
 - Hiper T3 bladeless fan
+- Hunter Pacific 9 speed ceiling fan with light
 - HYD WeAir Plus bladeless fan with heating function
 - Immax Neo Lite Vento ceiling fan with light
 - Klarstein Skyscaper Ice cooling fan
@@ -250,6 +254,7 @@
 - Breville Easy Air purifier
 - Breville Smart Air Connect purifier
 - Breville Smart Air Viral Protect Plus purifier
+- Duux Bright air purifier
 - essentials portable air purifier
 - Himox H05 and H06 air purifiers
 - Hosome air purifier
@@ -304,6 +309,7 @@
 - Klarstein DryFy Pro Connect dehumidifier
 - Kogan SmarterHome 7L desiccant dehumidifier
 - Luko dehumidifier
+- MeacoDry Arete Two 10L dehumidifier
 - Pro Breeze 30L dehumidifier
 - Shinco 30D dehumidifier (also matches Klarstein DryFy Connect)
 - Tesla Smart XL dehumidifier
@@ -342,13 +348,16 @@
 ### Kitchen Appliances
 
 - Anko 1.7L smart kettle
+- Ciarra CBCS4850 range hood 
 - Casdon TD Pro 2 oven
+- Cecofry 5500 Connected air fryer
 - Inkbird iBBQ-4BW cooking probe thermometer
 - Inkbird iBBQ-4T cooking probe thermometer (separate and combined measurement variants)
 - Inkbird IBS-M1S temperature probe hub
 - Inkbird IBT-26S BBQ thermometer
 - Inkbird sous vide cooker (also supports Silvercrest sous vide sticks)
 - Kogan glass 1.7L smart kettle
+- Leoffen LFIM6000 ice cube maker
 - Setti+ KT950W smart kettle
 - Silvercrest 1.7L smart kettle
 - Silvercrest coffee maker
@@ -370,6 +379,7 @@
 - EARU SW RCB breaker
 - eMylo EAI-90 smart meter
 - ERZ04C smart meter
+- Gaqqee KWS-302-WF energy meter
 - MatSee Plus bidirectional two channel clamp meter
 - Meterk single phase clamp meter
 - Parkside PG/PMW-300 solar inverter
@@ -397,6 +407,7 @@
 - EVSun EV charger
 - Feyree EV charger (several models)
 - Kolanky 3.6kW EV charger
+- Nine 32A EV charger
 - Parkside PLGS 2012 A1 smart charger for powertools
 - Tera W01 EV charger
 - Vevor Level 2 EV charger
@@ -522,6 +533,7 @@ of device.
 - Deta 6910HA series2 dimmer switch
 - Dim2Warm G95 Gold 1800-2700K CCT lightbulb
 - Dual-mode magic light string controller
+- Embrighten Café string lights
 - Feit dimmer (may work with other brands that just have a switch, dimmer and
   optional minimum brightness and bulb type)
 - Feit RGBWW light bulb (like generic RGBWW, but without scene support)
@@ -592,6 +604,7 @@ of device.
 - Wistar roller blind controller
 - Yueqing Combo YET848PC curtain motor
 - ZC34T-03-3A swing arm window opener
+- Zemismart AM25 roller blinds
 - Zemismart curtain rail
 - Zemismart roller shade
 
@@ -608,6 +621,7 @@ of device.
 - Lefant LS1 Pro vacuum cleaner
 - Lefant M213 vacuum cleaner (also works for Lefant M213S and APOSEN A550)
 - Lefant N33 vacuum cleaner
+- Lefant T700 vacuum cleaner with mop
 - Lenovo E1 vacuum cleaner
 - Liectroux G7 vacuum cleaner with mop
 - Liectroux XR500[T3]
@@ -686,6 +700,7 @@ port and password.
 - Catit Pixi smart fountain
 - Catit pet feeder (Pixi 2.2kg dispenser and 6 meal versions, and another non-Pixi branded single dispenser)
 - Ceres Plus pet feeder with camera
+- Cleverio PF100 pet feeder
 - Doel cat litter box
 - Els Pet Spaceship pet litter box
 - Faroro PF50 pet feeder
@@ -797,6 +812,7 @@ port and password.
 - MoistenLand water timer
 - Nice Digi door lock
 - Orion DL021HA lock
+- O'TU R1O1 fingerprint door lock
 - PT216/PT19DB-2 temperature and humidity sensor
 - SGS01 plant sensor
 - Smart Ape solar garden light

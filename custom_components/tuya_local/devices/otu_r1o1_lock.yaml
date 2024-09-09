@@ -1,7 +1,7 @@
 name: Door lock
 products:
-  - id: kpn4zaf7
-    name: BSTUOKEY RX2052 invisible induction lock
+  - id: jqpmkfj7
+    name: O'TU R1O1
 primary_entity:
   entity: lock
   dps:
@@ -13,12 +13,35 @@ primary_entity:
     - id: 2
       type: string
       optional: true
+      sensitive: true
       name: unlock_method_delete
     - id: 3
       type: string
       optional: true
-      sensitive: true
       name: unlock_method_modify
+    - id: 6
+      type: string
+      optional: true
+      name: bluetooth_proximity_unlock
+    - id: 7
+      type: boolean
+      optional: true
+      name: bluetooth_proximity_feedback
+    - id: 12
+      type: integer
+      optional: true
+      persist: false
+      name: unlock_fingerprint
+    - id: 13
+      type: integer
+      optional: true
+      persist: false
+      name: unlock_password
+    - id: 14
+      type: integer
+      optional: true
+      persist: false
+      name: unlock_dynamic_pwd
     - id: 15
       type: integer
       optional: true
@@ -40,25 +63,84 @@ primary_entity:
         - dps_val: tongue_not_out
           value: true
         - value: false
-    - id: 47
+    - id: 35
+      type: string
+      optional: true
+      sensitive: true
+      name: synch_member
+    - id: 44
       type: boolean
-      readonly: true
-      name: lock
+      optional: true
+      name: rtc_lock
+    - id: 51
+      type: string
+      optional: true
+      sensitive: true
+      name: temporary_password_create
+    - id: 52
+      type: string
+      optional: true
+      name: temporary_password_delete
+    - id: 53
+      type: string
+      optional: true
+      sensitive: true
+      name: temporary_password_modify
     - id: 54
       type: string
       optional: true
       sensitive: true
       name: synch_method
-    - id: 70
+    - id: 55
+      type: integer
+      optional: true
+      persist: false
+      name: unlock_temp_pwd
+    - id: 60
       type: string
       optional: true
       sensitive: true
-      name: check_code_set
-    - id: 71
+      name: remote_no_pd_setkey
+    - id: 61
       type: string
       optional: true
       sensitive: true
-      name: ble_unlock_check
+      name: remote_no_dp_key
+    - id: 62
+      type: integer
+      optional: true
+      persist: false
+      name: unlock_app
+    - id: 63
+      type: integer
+      optional: true
+      persist: false
+      name: unlock_voice
+    - id: 64
+      type: string
+      optional: true
+      name: password_offline_time
+    - id: 66
+      type: string
+      optional: true
+      name: unlock_offline_clear
+    - id: 67
+      type: string
+      optional: true
+      persist: false
+      name: unlock_offline_pwd
+      mapping:
+        - dps_val: null
+          value: null
+        - value: 1
+    - id: 69
+      type: string
+      optional: true
+      name: record
+    - id: 72
+      type: string
+      optional: true
+      name: unlock_record_check
 secondary_entities:
   - entity: sensor
     class: battery
@@ -116,48 +198,16 @@ secondary_entities:
             value: power_off
           - dps_val: shock
             value: shock
-          - dps_val: defense
-            value: defense
-          - dps_val: wrong_unlock
-            value: wrong_unlock
-  - entity: select
-    name: Language
-    icon: "mdi:translate"
-    category: config
+  - entity: binary_sensor
+    name: Duress
+    class: safety
+    category: diagnostic
     dps:
-      - id: 28
-        type: string
-        name: option
+      - id: 22
+        type: boolean
+        name: sensor
+        optional: true
+        persist: false
         mapping:
-          - dps_val: chinese_simplified
-            value: 中文
-          - dps_val: english
-            value: English
-  - entity: number
-    name: Beep volume
-    category: config
-    icon: "mdi:volume-high"
-    dps:
-      - id: 31
-        type: string
-        name: value
-        unit: "%"
-        range:
-          min: 0
-          max: 100
-        mapping:
-          - dps_val: mute
-            value: 0
-            step: 33
-            icon: "mdi:volume-mute"
-          - dps_val: low
-            value: 33
-            step: 33
-            icon: "mdi:volume-low"
-          - dps_val: normal
-            value: 66
-            step: 33
-            icon: "mdi:volume-medium"
-          - dps_val: high
-            value: 100
-            step: 33
+          - dps_val: null
+            value: false

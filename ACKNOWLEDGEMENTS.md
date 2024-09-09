@@ -8,6 +8,7 @@ None of this would have been possible without some foundational discovery work t
 - [clach04](https://github.com/clach04)'s [python-tuya](https://github.com/clach04/python-tuya) library.
 - [jasonacox](https://github.com/jasonacox)'s [tinytuya](https://github.com/jasonacox/tinytuya) library which improves on the original.
 
+
 Further device support has been made with the assistance of users. Please consider contributing if you find a device that is not supported by gathering some information about the device's DPS ids and their values.
 
 - [etamtlosz](https://github.com/etamtlosz) and [KiLLeRRaT](https://github.com/KiLLeRRaT) for their support and dev work towards GECO and GPCV heaters.
@@ -648,3 +649,20 @@ Further device support has been made with the assistance of users. Please consid
 - [deguchi-m](https://github.com/deguchi-m) for assisting with support for Dual CT clamp bidirectional energy meters.
 - [sciux2](https://github.com/sciux2) for assisting with support for RSE TY-WFH gate controller.
 - [schmurgel-tg](https://github.com/schmurgel-tg) for assisting with support for Create ceiling fan with light.
+- [inode-](https://github.com/inode-) for assisting with support for O'TU R1O1 fingerprint door lock.
+- [madpeteguy](https://github.com/madpeteguy) for contributing support for Thermoval TVT40 thermostat.
+- [blackice013](https://github.com/blackice013) for contributing support for Hunter Pacific 9 speed fan with light.
+- [Stalex25](https://github.com/Stalex25) for assisting with support for Vaco Moby Blue and Arrifana portable heatpumps.
+- [flocke](https://github.com/flocke) for assisting with support for MeacoDry Arete Two dehumidifier.
+- [FrederikM97](https://github.com/FrederickM97) for assisting with Cleverio PF100 pet feeder.
+- [chadtheriault](https://github.com/chadtheriault) for assisting with Zemismart AM25 roller blinds.
+- [fmonday](https://github.com/fmonday) for assisting with Enlighten Café string lights.
+- [plopezllorca](https://github.com/plopezllorca) for assisting with support for Lefant T700 vacuum.
+- [vrolijkj2](https://github.com/vrolijkj2) for contributing support for FlinQ Breeze fan.
+- [mat1990dj](https://github.com/mat1990dj) for contributing support for Nine EV charger.
+- [bramhoosemans](https://github.com/bramhoosemans) for contributing support for Duux Bright air purifier.
+- [alexps70](https://github.com/alexps70) for assisting with support for Gaqqee KWS-302-WF energy meter.
+- [zaubara](https://github.com/zaubara) for assisting with support for Ciarra CBCS4850 range hood.
+- [ap20132022](https://github.com/ap20132022) for assisting with support for Cecofry 5500 air fryer.
+- [alexandrebelloni](https://github.com/alexandrebelloni) for contributing improvements to Vevor EV charger.
+- [ekalle-swe](https://github.com/ekalle-swe) for assisting with support for Loeffen LFIM6000 ice cube maker.

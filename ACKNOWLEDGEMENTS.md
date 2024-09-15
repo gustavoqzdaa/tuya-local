@@ -491,7 +491,7 @@ Further device support has been made with the assistance of users. Please consid
 - [lowebb](https://github.com/lowebb) for contributing support for Wärme Designer wall panel heaters.
 - [mmorenocab](https://github.com/mmorenocab) for assisting with support for Meterk single phase clamp meters.
 - [KoKolaj](https://github.com/KoKolaj) for assisting with support for Tesla Smart XL dehumidifiers.
-- [BenJamesAndo](https://github.com/BenJamesAndo) for contributing support for Lexi Lighting string light WiFi adapters and PCIe mini and pro+ computer power switches.
+- [BenJamesAndo](https://github.com/BenJamesAndo) for contributing support for Lexi Lighting string light WiFi adapter, PCIe mini and pro+ computer power switches and Dream Maker Feel fan.
 - [LordPsycho202](https://github.com/LordPsycho202) for contributing support for Leo's Loo Too pet toilets.
 - [RoelDU](https://github.com/RoelDU) for assisting with support for Mirabella Genio Pixel oval lights.
 - [toposilva](https://github.com/toposilva) for assisting with support for 1CH dimmer modules.
@@ -665,4 +665,12 @@ Further device support has been made with the assistance of users. Please consid
 - [zaubara](https://github.com/zaubara) for assisting with support for Ciarra CBCS4850 range hood.
 - [ap20132022](https://github.com/ap20132022) for assisting with support for Cecofry 5500 air fryer.
 - [alexandrebelloni](https://github.com/alexandrebelloni) for contributing improvements to Vevor EV charger.
-- [ekalle-swe](https://github.com/ekalle-swe) for assisting with support for Loeffen LFIM6000 ice cube maker.
+- [ekalle-swe](https://github.com/ekalle-swe) for assisting with support for Loeffen LFIM6000 ice cube maker, Cleverio AP100 air purifier and CD200 video doorbell.
+- [Athemis](https://github.com/Athemis) for contributing support for Aktobis WDH-310EK dehumidifier.
+- [carmelo42](https://github.com/carmelo42) for contributing support for Fujicool Yuzu heat pump.
+- [dkvk](https://github.com/dkvk) for contributing support for Malmbergs single and dual dimmer modules.
+- [guffy1234](https://github.com/guffy1234) for contributing support for Atorch AT4PW energy meter.
+- [larronni](https://github.com/larronni) for contributing support for Calex aroma diffuser.
+- [JennyIglesias](https://github.com/JennyIglesias) for assisting with support for Tongou TO-Q-SYS-WT circuit breaker
+- [pot-noble](https://github.com/pot-noble) for contributing support for Petrust TK-WF002 pet fountain
+- [nedvedhonza](https://github.com/nedvedhonza) for contributing support for Fairland RMIC06 pool heat pump.

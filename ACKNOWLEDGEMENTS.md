@@ -383,7 +383,7 @@ Further device support has been made with the assistance of users. Please consid
 - [mastermind85](https://github.com/mastermind85) for assisting with support for MC6 thermostats.
 - [BettySwallocks](https://github.com/BettySwallocks) for assisting with support for Advanced Fires 1500 electric fireplaces.
 - [Striiter](https://github.com/Stritter) for assisting with support for Feyree and WOUEJ EV chargers.
-- [mprobber](https://github.com/mprobber) for assisting with support for Sunbeam dual heated matress pads and BSTUOKEY access control keypads.
+- [mprobber](https://github.com/mprobber) for assisting with support for Sunbeam dual heated matress pads, BSTUOKEY access control keypad, Heatstorm DH-100-TWI heater, iPettie W5 pet feeder.
 - [gtawelt](https:github.com/gtawelt) for contributing support for Parkside PMW-300 solar inverters.
 - [DocDrydenn](https://github.com/DocDrydenn) for assisting with support for Treatlife dual dimmer smartplugs.
 - [kbirger](https://github.com/kbirger) for contributing support for Reiga 52 ceiling fan with light.
@@ -413,7 +413,7 @@ Further device support has been made with the assistance of users. Please consid
 - [rbalaev](https://github.com/rbalaev) for assisting with support for Thermex Lima 80V water heaters.
 - [cart3a](https://github.com/cart3a) for contributing support for Beok TGM50 thermostats.
 - [patoh](https://github.com/patoh) for contributing support for Breville Smart Dry Connect dehumidifiers.
-- [Cadish](https://github.com/Cadish) for assisting with support for Qlima D820A dehumidifiers.
+- [Cadish](https://github.com/Cadish) for assisting with support for Qlima D820A dehumidifier and iLonda L88 fish feeder.
 - [mellow8](https://github.com/mellow8) for assisting with support for ZM-Wi-Fi smart meters.
 - [KodzghlyCZ](https://github.com/KodzghlyCZ) for assisting with support for Tesla Smart humidifiers.
 - [simplelnx](https://github.com/simplelnx) for assisting with support for Modern Flames Orion fireplaces.
@@ -561,11 +561,11 @@ Further device support has been made with the assistance of users. Please consid
 - [wlfc2031](https://github.com/wlfc2031) for assisting with support for Ailrinni BLE fingerprint locks.
 - [MerzkayaGnida](https://github.com/MerzkayaGnida) for assisting with support for Koi Duo water heaters.
 - [rostKo](https://github.com/rostKo) for contributing improvements to WDYK energy monitors.
-- [Aegeontis](https://github.com/Aegeontis) for contributing Puppy Kitty compatibility for Catit Pixi smart feeder.
+- [Aegeontis](https://github.com/Aegeontis) for contributing support for Puppy Kitty pet feeder.
 - [chris-garbas](https://github.com/chris-garbas) for contributing improvements to IPS pro heatpump.
 - [Nyotee](https://github.com/Nyotee) for assisting with support for Tesla Smart AUX series air conditioner.
 - [psuet](https://github.com/psuet) for assisting with support for XCase lock boxes.
-- [Zylazy](https://github.com/Zylazy) for assisting with support for Hoenyzy valve timers.
+- [Zylazy](https://github.com/Zylazy) for assisting with support for Hoenyzy valve timer and contributing support for Nybro heater.
 - [Zelaf](https://github.com/Zelaf) for contributing improvements to Nedis portable air conditioner.
 - [hwhesselink](https://github.com/hwhesselink) for contributing support for Amico ceiling fans.
 - [JohnyDNU](https://github.com/JohnyDNU) for contributing support for Sensei Air Conditioner.
@@ -665,7 +665,7 @@ Further device support has been made with the assistance of users. Please consid
 - [zaubara](https://github.com/zaubara) for assisting with support for Ciarra CBCS4850 range hood.
 - [ap20132022](https://github.com/ap20132022) for assisting with support for Cecofry 5500 air fryer.
 - [alexandrebelloni](https://github.com/alexandrebelloni) for contributing improvements to Vevor EV charger.
-- [ekalle-swe](https://github.com/ekalle-swe) for assisting with support for Loeffen LFIM6000 ice cube maker, Cleverio AP100 air purifier and CD200 video doorbell.
+- [ekalle-swe](https://github.com/ekalle-swe) for assisting with support for Loeffen LFIM6000 ice cube maker, Cleverio AP100 air purifier, Cleverio CD200 video doorbell, Silvercrest HF-6602T air fryer.
 - [Athemis](https://github.com/Athemis) for contributing support for Aktobis WDH-310EK dehumidifier.
 - [carmelo42](https://github.com/carmelo42) for contributing support for Fujicool Yuzu heat pump.
 - [dkvk](https://github.com/dkvk) for contributing support for Malmbergs single and dual dimmer modules.
@@ -674,3 +674,12 @@ Further device support has been made with the assistance of users. Please consid
 - [JennyIglesias](https://github.com/JennyIglesias) for assisting with support for Tongou TO-Q-SYS-WT circuit breaker
 - [pot-noble](https://github.com/pot-noble) for contributing support for Petrust TK-WF002 pet fountain
 - [nedvedhonza](https://github.com/nedvedhonza) for contributing support for Fairland RMIC06 pool heat pump.
+- [vossim](https://github.com/vossim) for contributing support for a second variant of Tonepie cat litter box.
+- [chmielowiec](https://github.com/chmielowiec) for contributing support for Moebot RETURNING state.
+- [InyoEndo](https://github.com/InyoEndo) for assistance supporting Sanden GAU-A45HPD water heat-pump controller.
+- [sudo-nitz](https://github.com/sudo-nitz) for assistance supporting eLinkSmart KH-SY2626 fan.
+- [andrewigali](https://github.com/andrewigali) for contributing support for HDMI TV ambient lighting 65 LED strip.
+- [robex2005](https://github.com/robex2005) for contributing support for iHunt 400m³/h aip purifier.
+- [PanosssD](https://github.com/PanosssD) for contributing support for Inventor Comfort air conditioner.
+- [Jabber-se](https://github.com/Jabber-se) for contributing support for HRT AS90 climate alarm.
+- [Elliottmonaghan](https://github.com/Elliottmonaghan) for contributing support for Holman Helios weather station.

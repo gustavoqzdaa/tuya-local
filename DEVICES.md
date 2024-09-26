@@ -26,6 +26,7 @@
 - Eurom Wall Designheat 2000 heater
 - Goldair heater models beginning with the code GPPH, GCPV, GECO, PH-ET
 - Hama radiator controller
+- Heatstorm DH-100-TWI heater
 - Heatstorm HS-1500 heater
 - Heatstorm HS-6000-GC heavy duty heater
 - Herschel infrared heater
@@ -46,6 +47,7 @@
 - MRC Magnum floor heating
 - Nedis ceramic PTC fan heater
 - Nedis convection heater - WIFIHTPL20F model
+- Nybro heater
 - Orion OWH-PTC2000 heater
 - Princess 350 panel heater
 - Prosto PTC 2000 heater
@@ -84,6 +86,7 @@
 - Fisher Summer air conditioner
 - Fujicool Yuzu heat pump
 - Idea Heating Belt (with CS1 USB dongle)
+- Inventor Comfort air conditioner
 - Inventor Leon (Tokens Legend series) air conditioner
 - Klarstein Iceblock Ecosmart air conditioner
 - Kogan portable air conditioners (Y09, Y12, Y16)
@@ -144,6 +147,7 @@
 - Hydrotherm Dynamic/X8 heat pump hot water systems (Gen 5 and 6)
 - ITS-4.5HD super water heat pump
 - Koi Duo HTW-TD-080KOID
+- Sanden GAU-A45HPD WiFi heat pump controller
 - Thermex IF series V pro hot water systems
 - Thermex Lima 80V
 
@@ -220,6 +224,7 @@
 - Duux Whisper Flex pedestal fan
 - Duux Whisper Flex Ultimate
 - Eglo 5 speed + sleep ceiling fan
+- eLinkSmart KH-SY2626 pedestal fan
 - Fanco Eco Silent Deluxe ceiling fan with LED light
 - FlinQ Breeze indoor pedestal fan
 - Goldair GCPF315 fan
@@ -262,6 +267,7 @@
 - essentials portable air purifier
 - Himox H05 and H06 air purifiers
 - Hosome air purifier
+- iHunt 400m³/h air purifier
 - Klarta Stor 2 air purifier
 - Kogan air purifier
 - Lifubide X600 air purifier
@@ -367,6 +373,7 @@
 - Setti+ KT950W smart kettle
 - Silvercrest 1.7L smart kettle
 - Silvercrest coffee maker
+- Silvercrest HF-6602T air fryer
 - Ultenic K10 air fryer
 - Weekett smart kettle
 
@@ -547,6 +554,7 @@ of device.
 - Feit RGBWW light bulb (like generic RGBWW, but without scene support)
 - Galaxy Projector
 - HDMI sync light
+- HDMI TV ambient lighting 65
 - iHD001 LED controller
 - Ion LED WiFi dimmer
 - Kojima motion sensor RGBCW nightlight
@@ -716,6 +724,8 @@ port and password.
 - Els Pet Spaceship pet litter box
 - Faroro PF50 pet feeder
 - HoneyGuardian S56 pet feeder
+- iLonda L88 fish feeder
+- iPettie W5 pet feeder
 - Leo's Loo Too pet toilet
 - Littepets MA2 series Cute Baby cat litter box
 - Nedis pet feeder
@@ -724,6 +734,7 @@ port and password.
 - Petoneer Fresco Hydrate Ultra pet fountain
 - Petrust TK-WF002 pet fountain
 - PNI water feeder
+- Puppy Kitty automatic pet feeder
 - Rojeco PTM-001 pet feeder (two versions)
 - Sobralik pet fountain
 - Tesla Smart pet feeder
@@ -769,6 +780,8 @@ port and password.
 - EPT ultrasonic 3m tank level sensor
 - GratKit filament dryer
 - Haier Nayun NY-GS-04 combustible gas alarm
+- HRT AS90 temperature and humidity alarm
+- Holman Helios weather station
 - Inkbird PTH-9CW air quality monitor
 - KKMoon 7in1 air quality monitor
 - Kogan bidet toilet seat

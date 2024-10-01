@@ -683,3 +683,12 @@ Further device support has been made with the assistance of users. Please consid
 - [PanosssD](https://github.com/PanosssD) for contributing support for Inventor Comfort air conditioner.
 - [Jabber-se](https://github.com/Jabber-se) for contributing support for HRT AS90 climate alarm.
 - [Elliottmonaghan](https://github.com/Elliottmonaghan) for contributing support for Holman Helios weather station.
+- [maddijoyce](https://github.com/maddijoyce) for contributing support for a second type of illuminance sensor.
+- [rege245](https://github.com/rege245) for contributing support for WDYK 4P100A energy meter circuit breaker.
+- [arnkit](https://github.com/arnkit) for contributing improvements to Stadlerform Roger purifier.
+- [IATkachnko](https://github.com/IATkachenko) for contributing support for Ballu Aura air conditioner.
+- [DennisGeisse](https://github.com/DennisGeisse) for contributing support for Reiga ceiling fan without light.
+- [death-droid](https://github.com/death-droid) for contributing improvements to the water_heater platform.
+- [79chrisone](https://github.com/79chrisone) for contributing basic support for EARU DPN circuit breaker.
+- [sorrison](https://github.com/sorrison) for contributing improvements to Sanden heat pump.
+- [OsaedYahya](https://github.com/OsaedYahya) for contributing support for MyQ TD8 vide doorbell.

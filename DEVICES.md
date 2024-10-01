@@ -65,6 +65,7 @@
 ### Air Conditioners / Heat pumps
 
 - Arlec PA1123BKHA portable air conditioner
+- Ballu Aura air conditioner
 - Be Cool BC14KL2101F
 - Carson CB PA280
 - Cecotec ForceClima Soundless portable air conditioner
@@ -243,7 +244,7 @@
 - Orison RGB ambient bladeless ceiling fan
 - Ovlaim ceiling fan with cool/warm white dimmable light
 - Princess DC pedestal fan
-- Reiga 52 ceiling fan with light
+- Reiga ceiling fans with and without light
 - Royal Clima RCB 150 ventilation system
 - Skyfan DC fan
 - Skyfan DC fan with light
@@ -360,7 +361,7 @@
 ### Kitchen Appliances
 
 - Anko 1.7L smart kettle
-- Ciarra CBCS4850 range hood 
+- Ciarra CBCS4850 range hood
 - Casdon TD Pro 2 oven
 - Cecofry 5500 Connected air fryer
 - Inkbird iBBQ-4BW cooking probe thermometer
@@ -391,6 +392,7 @@
 - DTS238-7 3 phase smart meter
 - Dual CT clamp bidirectional meter
 - EARU SW RCB breaker
+- EARU SW DPN breaker
 - eMylo EAI-90 smart meter
 - ERZ04C smart meter
 - Gaqqee KWS-302-WF energy meter
@@ -411,8 +413,9 @@
 - Tongou ST463JWT 4P 3-phase circuit breaker
 - Tongou TO-Q-SYS-WT energy monitoring circuit breaker
 - V-WIFI-DL02-ES energy consumption clamp meter
-- WDYK 2P63A energy meter
+- WDYK 2P63A energy meter circuit breaker
 - WDYK 3 phase 4 pole 400V energy meter circuit breaker
+- WDYK 4P100A energy meter circuit breaker
 - Yagusmart 3PN 63A 3-phase eneregy meter
 - ZM-Wi-Fi smart meter
 
@@ -684,6 +687,7 @@ work reliably, even if listed below.
 - Cleverio CD200 video doorbell
 - Iebeyond ECH doorbell with 433MHz RF hub
 - KW02 video doorbell
+- MyQ TD8 video doorbell
 - WHM-04 doorbell (sold under various brands)
 
 ### Cameras
@@ -767,7 +771,7 @@ port and password.
 ### Miscellaneous
 
 - generic PIR motion sensor
-- generic illuminance sensor
+- generic illuminance sensor (2 types using different dps)
 - Air Housekeeper 6-in-1 air quality monitor
 - Akai heat pump clothes dryer
 - AquaForte Inverter VSP pool pump
@@ -795,7 +799,7 @@ port and password.
 - PH-W218 water quality monitor
 - PlantsIO Ivy smart planter
 - PV28-CW 8 in 1 air quality monitor
-- RSE TY-WFH v3.01 gate controller 
+- RSE TY-WFH v3.01 gate controller
 - RTCZ-03 human presence sensor
 - RainPoint TTV103FRF water timer
 - SD123 HPR01 human presence radar

@@ -1,14 +1,10 @@
 name: Video doorbell
 products:
-  - id: tpd76kmnwwsun4iq
-    name: Cleverio CD-200
+  - id: thmj9wewi8yhouo4
+    name: Linda Smart 7S
 primary_entity:
   entity: camera
   dps:
-    - id: 150
-      type: boolean
-      optional: true
-      name: record
     - id: 154
       type: base64
       optional: true
@@ -283,3 +279,45 @@ secondary_entities:
         range:
           min: 1
           max: 5
+  - entity: siren
+    name: Chime
+    category: config
+    icon: "mdi:bell"
+    dps:
+      - id: 156
+        type: string
+        name: tone
+        mapping:
+          - dps_val: "1"
+            value: "Chime 1"
+          - dps_val: "2"
+            value: "Chime 2"
+          - dps_val: "3"
+            value: "Chime 3"
+          - dps_val: "4"
+            value: "Chime 4"
+      - id: 157
+        type: integer
+        name: volume_level
+        range:
+          min: 0
+          max: 100
+        mapping:
+          - scale: 100
+  - entity: select
+    name: Chime type
+    icon: "mdi:bell-cog"
+    category: config
+    dps:
+      - id: 165
+        type: string
+        name: option
+        mapping:
+          - dps_val: "0"
+            value: Not set
+          - dps_val: "1"
+            value: Wired bell
+          - dps_val: "2"
+            value: Wireless bell
+          - dps_val: "3"
+            value: "No bell"

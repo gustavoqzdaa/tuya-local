@@ -35,12 +35,13 @@
 - INOW Wi-Fi heating element (single and dual air/water temperature control variants)
 - Juskys OH125BW2 oil radiator
 - Kennedy II/JR electric fireplace
-- Kesser Infrared 400W wall and 3000W heaters.
+- Kesser Infrared 400W wall and 3000W heaters with and without lights.
 - Klarstein Wonderwall Air Art IR heater
+- Klarstein Wonderwall Bornholm IR heater
 - Klarstein Wonderwall IR heater
 - Kogan flame effect heater - KAWHMFP20BA model
 - Kogan tower heater - KASTHFP2KWA model
-- Kogan Wi-Fi convection panel heaters - KAHTP and KAWFHTP models
+- Kogan panel heaters - KAHTP, KAWFHTP, KASMGPH models
 - Lehmann LHOHC-2013C electric radiator
 - Mellerware Comfy electric radiator (tested with Medium 1200W)
 - Modern Flames Orion fireplace
@@ -111,6 +112,7 @@
 - Vaco Moby Blue 14 / Arrifana 16 portable heat pump
 - Vivax Cool ACP-12CH35REWI
 - Vivion 300123/4/5 air conditioners
+- Windmill window air conditioner
 - Woods Cortina portable air conditioner
 - Woods Milan portable air conditioner
 
@@ -145,9 +147,11 @@
 - Ferroli Titano Twin water heater
 - Fisher air to water heat pump
 - Geyserwise TSE1 Geyser controller kit
+- Giatsu VAW 2 heat pump water heater
 - Hydrotherm Dynamic/X8 heat pump hot water systems (Gen 5 and 6)
 - ITS-4.5HD super water heat pump
 - Koi Duo HTW-TD-080KOID
+- Powerworld PW58410 hot water and climate heat pump
 - Sanden GAU-A45HPD WiFi heat pump controller
 - Thermex IF series V pro hot water systems
 - Thermex Lima 80V
@@ -177,9 +181,11 @@
 - Hysen HY02TP thermostat
 - Hysen HY08ACF thermostat
 - Hysen HY08WE-2 thermostat
+- Inkbird IPT-2CH v2.0 reptile thermostat
 - Inkbird ITC306A thermostat smartplug
 - Inkbird ITC308 thermostat smartplug
 - Jiahong ET-72W thermostat
+- Kiturami NCTR-100 water and heating thermostat
 - KKMoon knob thermostat
 - Ledlux thermostat
 - ME80 touchscreen thermostat
@@ -191,12 +197,14 @@
 - Netmostat N-1 (RTAFN1) thermostat
 - Owon PCT513 thermostat
 - Plikc Neve X RFW thermostat
+- Psmart T436 thermostat
 - RYRA TYTE-D1 thermostat with energy monitoring
 - Salcar T9W thermostat _(likely also Tellur TSH02)_
 - Saswell C16 thermostat _(rebadged as Warmme, Klima and others)_
 - Saswell T29UTW thermostat
 - T5E-WF thermostat
 - Thermoval TVT40 thermostat
+- Vine TJ550 thermostat
 
 ### Fans
 
@@ -211,6 +219,8 @@
 - Atomberg Gorilla fan V2
 - Atomi 52 inch ceiling fan
 - Breville AirDynamic 3D pedestal fan
+- Brilliant Ceiling fan with light
+- Calibo Cloudfan DC ceiling fan with light
 - Carro ceiling fan with cool and warm white lights
 - Carro PN-04F02D fan with dimmable light
 - Casafan ECO Neo III ceiling fan with light
@@ -250,6 +260,7 @@
 - Skyfan DC fan with light
 - Smart Mist3 TX-1602MF (ZJ-1522A-WiFi)
 - Stirling FS1-40DC pedestal fan
+- Sulion Cadillac ceiling fan with light (via RF hub)
 - Sulion Crixus L ceiling fan with light
 - TMWF02 fan controller
 - Treatlife DS02-F fan switch
@@ -324,6 +335,7 @@
 - MeacoDry Arete Two 10L dehumidifier
 - Pro Breeze 30L dehumidifier
 - Shinco 30D dehumidifier (also matches Klarstein DryFy Connect)
+- Sygonix Smarter dehumidifier
 - Tesla Smart XL dehumidifier
 - VacPlus dehumidifier
 - Vivosun DE0003 dehumidifier
@@ -396,7 +408,7 @@
 - eMylo EAI-90 smart meter
 - ERZ04C smart meter
 - Gaqqee KWS-302-WF energy meter
-- MatSee Plus bidirectional two channel clamp meter
+- MatSee Plus bidirectional two channel clamp meter (multiple variants)
 - Meterk single phase clamp meter
 - Parkside PG/PMW-300 solar inverter
 - PC311-TY 2 phase power clamp meter
@@ -421,11 +433,13 @@
 
 ### Battery Charger
 
+- AFYEEV 32A 22kW portable EV charger
 - EcoPoint EV charger
 - EVSun EV charger
 - Feyree EV charger (several models)
 - Kolanky 3.6kW EV charger
 - Nine 32A EV charger
+- Noeifevo Q21W EV charger
 - Parkside PLGS 2012 A1 smart charger for powertools
 - Tera W01 EV charger
 - Vevor Level 2 EV charger
@@ -551,7 +565,8 @@ of device.
 - Deta 6910HA series2 dimmer switch
 - Dim2Warm G95 Gold 1800-2700K CCT lightbulb
 - Dual-mode magic light string controller
-- Embrighten Café string lights
+- Enbrighten Café string lights
+- Enbrighten Curtain lights
 - Feit dimmer (may work with other brands that just have a switch, dimmer and
   optional minimum brightness and bulb type)
 - Feit RGBWW light bulb (like generic RGBWW, but without scene support)
@@ -565,6 +580,7 @@ of device.
 - LightStar CCT track light
 - Loycco sound machine with nightlight (also sold as Momland nightlight with white noise)
 - Loginovo TV sync backlight
+- LSC Smart Connect CCT + RGB ceiling light
 - LSC smart connect RGB CCT lightbulb (similar to older generic bulbs, so may work for others)
 - Lytmi Fantasy/Neo 3 HDMI sync backlight
 - Malmbergs QS-WIFI-D02-TRIAC single dimmer module
@@ -595,6 +611,7 @@ of device.
 - Abalon BCM700D curtain motor (likely to work with other brands)
 - AGL Ultracontato r2 door controller
 - AGL Ultra Magic gate opener
+- Avatto curtain and double light switch
 - Avatto curtain and light switch
 - Avatto curtain switch
 - Avatto roller blind controller
@@ -681,12 +698,14 @@ work reliably, even if listed below.
 - Neo Coolcam Siren with temperature and humidity alert (NAS-AB02W)
 - Orion Grid Connect outdoor siren (also Elesion NX-4980)
 - Sirena WS-902 Plus outdoor strobe siren
+- STL siren
 
 ### Doorbells
 
 - Cleverio CD200 video doorbell
 - Iebeyond ECH doorbell with 433MHz RF hub
 - KW02 video doorbell
+- Linda Smart 7S video doorbell
 - MyQ TD8 video doorbell
 - WHM-04 doorbell (sold under various brands)
 
@@ -752,6 +771,7 @@ port and password.
 - Arlec HUBRF06HA RF 8x8 learning remote transmitter
 - Moes IR/RF remote controller (also IR controller pro, may work only for IR)
 - Universal remote control with temperature and humidity sensors
+- S11+ IR/RF remote controller
 
 ### Valves
 
@@ -782,6 +802,7 @@ port and password.
 - CT20W PIR motion detector
 - Emax EM3378 Weather Station (selling as Hiper P1 and other rebrands)
 - EPT ultrasonic 3m tank level sensor
+- Goldair Platinum SleepSmart electric blanket
 - GratKit filament dryer
 - Haier Nayun NY-GS-04 combustible gas alarm
 - HRT AS90 temperature and humidity alarm

@@ -13,6 +13,8 @@
 - Caldo Up T fan heater
 - Calex Smart Convector heater
 - Cleverio AR10/AR20 panel heaters
+- Create Warm Towel Advance bathroom heater
+- Cronos GPH-D-DA heater
 - Devola patio heater
 - Dynasty BTX fireplace
 - Ecostrad Accent iQ heating panel
@@ -50,6 +52,7 @@
 - Nedis convection heater - WIFIHTPL20F model
 - Nybro heater
 - Orion OWH-PTC2000 heater
+- Point POPANW600 panel heater
 - Princess 350 panel heater
 - Prosto PTC 2000 heater
 - Purline Hoti M100 heater
@@ -151,6 +154,8 @@
 - Hydrotherm Dynamic/X8 heat pump hot water systems (Gen 5 and 6)
 - ITS-4.5HD super water heat pump
 - Koi Duo HTW-TD-080KOID
+- Modena ES-15-SKY water heater
+- Powerworld PW58330 hot water and climate heat pump
 - Powerworld PW58410 hot water and climate heat pump
 - Sanden GAU-A45HPD WiFi heat pump controller
 - Thermex IF series V pro hot water systems
@@ -280,6 +285,7 @@
 - Himox H05 and H06 air purifiers
 - Hosome air purifier
 - iHunt 400m³/h air purifier
+- iHunt 50m³/h air purifier
 - Klarta Stor 2 air purifier
 - Kogan air purifier
 - Lifubide X600 air purifier
@@ -414,6 +420,7 @@
 - PC311-TY 2 phase power clamp meter
 - PC321-TY 3 phase power clamp meter
 - PJ-1103 power clamp meter
+- PZIOT E01 energy meter
 - SG600MD solar inverter (also SG700MD, other SGxx0MD and SGxx0W models) sold under various brands
 - SmartMCB SMT006 energy meter (10 byte and 8 byte phase info variants)
 - Stepuptech SG800 solar inverter
@@ -424,6 +431,7 @@
 - Tongou SMR1 circuit breaker
 - Tongou ST463JWT 4P 3-phase circuit breaker
 - Tongou TO-Q-SYS-WT energy monitoring circuit breaker
+- Unknown brand dual channel smart meter
 - V-WIFI-DL02-ES energy consumption clamp meter
 - WDYK 2P63A energy meter circuit breaker
 - WDYK 3 phase 4 pole 400V energy meter circuit breaker
@@ -469,6 +477,7 @@ the best option.
 - Brilliant 1/2/3/4 gang wall switches with power monitoring
 - Brilliant quad powerstrip with USB
 - CBI Astute smart controller
+- CE Smart Home LQ-2-W3 AC wall outlet
 - DIGOO DG-SP202 dual smartplug with energy monitoring and timers
 - DIGOO DG-SP01 USB smartplug with night light
 - Dual power monitoring smartplug (Geex)
@@ -486,6 +495,7 @@ the best option.
 - Linkoze LKWSW201 dual button
 - Logicom Strippy 4 way power strip with USB
 - Loratap RR400W-V2 relay switch
+- Loratap RR620W-JL dual relay switch
 - Makegood double power point (sold under AusElectronicsDirect, Cleverlife, Kogan, Ozsmartthings and other brands)
 - MakeGood double switch with timers and power monitoring on whole device
 - Minoston 6 preset timer switch
@@ -665,6 +675,7 @@ of device.
 - Liectroux XR500[T3]
 - Lubluelu SL60D vacuum cleaner with mop
 - MAMNV BR151 vacuum cleaner with mop
+- Medion S10 SW vacuum cleaner
 - Medion S20 SW vacuum cleaner with mop
 - Mellerware City Move vacuum cleaner
 - Neatsvor X600 vacuum cleaner
@@ -696,6 +707,7 @@ work reliably, even if listed below.
 ### Sirens
 
 - Neo Coolcam Siren with temperature and humidity alert (NAS-AB02W)
+- Orion Grid Connect SWS07HA indoor siren
 - Orion Grid Connect outdoor siren (also Elesion NX-4980)
 - Sirena WS-902 Plus outdoor strobe siren
 - STL siren
@@ -704,6 +716,7 @@ work reliably, even if listed below.
 
 - Cleverio CD200 video doorbell
 - Iebeyond ECH doorbell with 433MHz RF hub
+- HunterTBK HF-6602T video doorbell
 - KW02 video doorbell
 - Linda Smart 7S video doorbell
 - MyQ TD8 video doorbell
@@ -729,6 +742,7 @@ port and password.
 ### Alarm control panels
 
 - BlitzWolf BW-IS6 security alarm system
+- Digoo DG-HAMB GSM security alarm system 
 - GauTone PG-103 security alarm system
 - Smart alarm siren (unbranded)
 - TS106 alarm system
@@ -755,6 +769,7 @@ port and password.
 - Petlibro PLAF103 pet feeder
 - Petlibro PLAF203 pet feeder with camera
 - Petoneer Fresco Hydrate Ultra pet fountain
+- Petoneer Fresco Mini pet fountain
 - Petrust TK-WF002 pet fountain
 - PNI water feeder
 - Puppy Kitty automatic pet feeder
@@ -770,6 +785,7 @@ port and password.
 
 - Arlec HUBRF06HA RF 8x8 learning remote transmitter
 - Moes IR/RF remote controller (also IR controller pro, may work only for IR)
+- Moes touchscreen control panel mini with IR remote and Bluetooth sigmesh hub
 - Universal remote control with temperature and humidity sensors
 - S11+ IR/RF remote controller
 
@@ -792,12 +808,14 @@ port and password.
 
 - generic PIR motion sensor
 - generic illuminance sensor (2 types using different dps)
+- generic smoke detector
 - Air Housekeeper 6-in-1 air quality monitor
 - Akai heat pump clothes dryer
 - AquaForte Inverter VSP pool pump
 - ASIP-0622 indoor planter
 - Brennenstuhl WFD3050P PIR motion activated CCT spotlight
-- Bresser smart 7-in-1 weather station
+- Bresser Smart 7-in-1 weather station
+^ Bresser Smart Thermo-hygrometer
 - CO2-Box air quality monitor
 - CT20W PIR motion detector
 - Emax EM3378 Weather Station (selling as Hiper P1 and other rebrands)
@@ -903,6 +921,8 @@ entity types as sub devices.
 - PY321-Z-TY energy meter
 - Temperature and humidity sensor with alarm feature
 - WL-898WZ water leak sensor
+- ZPmeter 214C-Z water meter
+
 - ZTH08ZTU temperature and humidity sensor
 
 NOTE: this project does not intend to expand the scope to support non-Tuya

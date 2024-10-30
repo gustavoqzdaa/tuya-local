@@ -90,6 +90,7 @@ DP_SCHEMA = vol.Schema(
                 "bitfield",
                 "unixtime",
                 "json",
+                "utf16b64",
             ]
         ),
         vol.Required("name"): str,
@@ -512,7 +513,11 @@ class TestDeviceConfig(IsolatedAsyncioTestCase):
                 self.check_entity(entity, cfg)
                 entities.append(entity.config_id)
             # check entities are unique
-            self.assertCountEqual(entities, set(entities))
+            self.assertCountEqual(
+                entities,
+                set(entities),
+                f"Duplicate entities in {cfg}",
+            )
 
             # If there are no secondary entities, check that it is intended
             if not secondary:

@@ -172,6 +172,7 @@
 - Beca BHT-002/3000 floor heating thermostat (with external temp sensor)
 - Beca BHP-6000 room heat pump control thermostat
 - Beca BHT-6000/8000 floor heating thermostat
+- Beok TCB/W38 thermostat (also sold as RT-70 under other brands)
 - Beok TGM50 thermostat
 - Beok TGR81 thermostat (also reported working with Myuet ME98, Avatto WT81/ME81)
 - Beok TOL47 thermostat
@@ -197,6 +198,7 @@
 - Minco MH-1823D thermostat
 - Moes BHT-002 thermostat (without external temp sensor)
 - Moes MS-103 temperature and humidity switch (partial functions, temperature only)
+- Moes WHT-009 thermostat
 - Multi Leaf DY-107 thermostat
 - Nashone MTS-700-WB thermostat smartplug
 - Netmostat N-1 (RTAFN1) thermostat
@@ -387,6 +389,7 @@
 - Inkbird IBS-M1S temperature probe hub
 - Inkbird IBT-26S BBQ thermometer
 - Inkbird sous vide cooker (also supports Silvercrest sous vide sticks)
+- Klarstein Amazonia dishwasher
 - Kogan glass 1.7L smart kettle
 - Leoffen LFIM6000 ice cube maker
 - Setti+ KT950W smart kettle
@@ -423,6 +426,7 @@
 - PZIOT E01 energy meter
 - SG600MD solar inverter (also SG700MD, other SGxx0MD and SGxx0W models) sold under various brands
 - SmartMCB SMT006 energy meter (10 byte and 8 byte phase info variants)
+- Solar Grid/Smart GTB series solar inverter
 - Stepuptech SG800 solar inverter
 - Stepuptech SPD800 solar inverter
 - Taxnele circuit breaker and energy meter
@@ -441,6 +445,7 @@
 
 ### Battery Charger
 
+- AFYEEV 16A portable EV charger
 - AFYEEV 32A 22kW portable EV charger
 - EcoPoint EV charger
 - EVSun EV charger
@@ -484,6 +489,7 @@ the best option.
 - Dual power monitoring smartplug v2 (Smatrul, Deltaco)
 - Eightree ET43 3-outlet powerstrip with energy monitoring
 - ES01 3 outlet + USB powerstrip with individual timers
+- ESP Fort EC-SPSP USB and mains smartplug
 - Gosund P1 3 outlet + USB powerstrip with power monitoring
 - Gosund SP112 RTL energy monitoring smartplug with USB
 - Grid Connect double outlet wall socket
@@ -852,6 +858,7 @@ port and password.
 - Tontine electric blanket
 - TOPENS TC196 remote control for gate openers
 - Valehaus SYZN119 towel warmer
+- Weaja WJ-TUYA-S9 gas alarm
 - WeatherStation Pro
 - Xiumii human presence radar
 - Yieryi water quality monitor (also matches unbranded PH-W3988 device)
@@ -882,6 +889,7 @@ port and password.
 - Orion DL021HA lock
 - O'TU R1O1 fingerprint door lock
 - PT216/PT19DB-2 temperature and humidity sensor
+- Raykube A1 Pro Max clip over door lock
 - SGS01 plant sensor
 - Smart Ape solar garden light
 - SOP10 water sprinkler
@@ -904,6 +912,7 @@ entity types as sub devices.
 ### Devices supported via Zigbee hubs
 
 - Aubess temperature and humidity sensor
+- Avatto TRV06 radiator valve (also sold branded as Thaleos)
 - Generic Zigbee Door Sensor
 - Intelbras IFR7000 door lock
 - Loginovo mmWave human presence sensor

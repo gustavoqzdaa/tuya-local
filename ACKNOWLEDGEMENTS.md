@@ -696,7 +696,7 @@ Further device support has been made with the assistance of users. Please consid
 - [rmf1995](https://github.com/rmf1995) for contributing support for Giatsu VAW 2 heat pump water heater.
 - [murch1](https://github.com/murch1) for contributing support for Brilliant ceiling fan with light.
 - [NashHome](https://github.com/NashHome) for contributing support for Avatto curtain with double light switch.
-- [ciscolyon69](https://github.com/ciscolyon69) for assisting with support for another variant of MatSee Plus 2ch bidirectional clamp meter.
+- [ciscolyon69](https://github.com/ciscolyon69) for assisting with support for Avatto TRV06 radiator valve and another variant of MatSee Plus 2ch bidirectional clamp meter.
 - [cabmoomoo](https://github.com/cabmoomoo) for contributing support for Enbrighten curtain lights.
 - [eldi0s](https://github.com/eldi0s) for contributing support for Kesser IR heater with flood lights.
 - [willieseabrook](https://github.com/willieseabrook) for contributing support for Kogan KASMGPH glass panel heater.
@@ -730,3 +730,10 @@ Further device support has been made with the assistance of users. Please consid
 - [Thommav](https://github.com/Thommav) for assisting with support for ZPmeter 214C water meter.
 - [Esp32-zapper](https://github.com/Esp32-zapper) for assisting with support for HunterTBK video doorbell.
 - [masfernandez](https://github.com/masfernandez) for assisting with support for Create Warm Towel Advance bathroom heater.
+- [Smandurlo](https://github.com/Smandurlo) for assisting with support for Klarstein Amazonia dishwasher and Weaja gas alarm.
+- [ChrisDes](https://github.com/ChrisDes) for assisting with support for Raykube A1 Pro Max clip-over door lock.
+- [pimpalaputty](https://github.com/pimpalaputty) for contributing support for AFYEEV 16A EV charger.
+- [SimonAnnetts](https://github.com/SimonAnnetts) for contributing support for Solar Grid/Smart GTB series solar inverters.
+- [yurkiv](https://github.com/yurkiv) for contributing support for Moes WHT-009 thermostat.
+- [norfolkmustard](https://github.com/norfolkmustard) for contributing support for ESP Fort EC-SPSP USB smartplug.
+- [alexsperling](https://github.com/alexsperling) for assisting with support for Beok TCB/W38 (RT-70) thermostat.

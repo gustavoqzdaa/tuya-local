@@ -200,9 +200,12 @@ class ConfigFlowHandler(config_entries.ConfigFlow, domain=DOMAIN):
                 # This is an indirectly addressable device. Need to know which hub it is connected to.
                 if user_input["hub_id"] != "None":
                     hub_choice = self.__cloud_devices[user_input["hub_id"]]
-                    # Populate uuid and local_key from the child device to pass on complete information to the local step.
+                    # Populate node_id or uuid and local_key from the child
+                    # device to pass on complete information to the local step.
                     hub_choice["ip"] = ""
-                    hub_choice[CONF_DEVICE_CID] = device_choice["uuid"]
+                    hub_choice[CONF_DEVICE_CID] = (
+                        device_choice["node_id"] or device_choice["uuid"]
+                    )
                     hub_choice[CONF_LOCAL_KEY] = device_choice[CONF_LOCAL_KEY]
                     self.__cloud_device = hub_choice
                     return await self.async_step_search()
@@ -291,6 +294,7 @@ class ConfigFlowHandler(config_entries.ConfigFlow, domain=DOMAIN):
                 _LOGGER.debug(f"Found: {local_device}")
                 self.__cloud_device["ip"] = local_device["ip"]
                 self.__cloud_device["version"] = local_device["version"]
+                self.__cloud_device["local_product_id"] = local_device["productKey"]
             else:
                 _LOGGER.warning(f"Could not find device: {self.__cloud_device['id']}")
             return await self.async_step_local()
@@ -322,6 +326,16 @@ class ConfigFlowHandler(config_entries.ConfigFlow, domain=DOMAIN):
             self.device = await async_test_connection(user_input, self.hass)
             if self.device:
                 self.data = user_input
+                if self.__cloud_device:
+                    if self.__cloud_device.get("product_id"):
+                        self.device.set_detected_product_id(
+                            self.__cloud_device["product_id"]
+                        )
+                    if self.__cloud_device.get("local_product_id"):
+                        self.device.set_detected_product_id(
+                            self.__cloud_device["local_product_id"]
+                        )
+
                 return await self.async_step_select_type()
             else:
                 errors["base"] = "connection"
@@ -362,7 +376,10 @@ class ConfigFlowHandler(config_entries.ConfigFlow, domain=DOMAIN):
 
         async for type in self.device.async_possible_types():
             types.append(type.config_type)
-            q = type.match_quality(self.device._get_cached_state())
+            q = type.match_quality(
+                self.device._get_cached_state(),
+                self.device._product_ids,
+            )
             if q > best_match:
                 best_match = q
                 best_matching_type = type.config_type
@@ -375,6 +392,15 @@ class ConfigFlowHandler(config_entries.ConfigFlow, domain=DOMAIN):
                 self.__cloud_device["product_name"],
                 self.__cloud_device["product_id"],
             )
+            if (
+                self.__cloud_device["local_product_id"]
+                and self.__cloud_device["local_product_id"]
+                != self.__cloud_device["product_id"]
+            ):
+                _LOGGER.warning(
+                    "Local product id differs from cloud: %s",
+                    self.__cloud_device["local_product_id"],
+                )
             # try:
             #     self.init_cloud()
             #     model = await self.cloud.async_get_datamodel(
@@ -470,10 +496,6 @@ class OptionsFlowHandler(config_entries.OptionsFlow):
             vol.Required(
                 CONF_POLL_ONLY, default=config.get(CONF_POLL_ONLY, False)
             ): bool,
-            vol.Optional(
-                CONF_DEVICE_CID,
-                default=config.get(CONF_DEVICE_CID, ""),
-            ): str,
         }
         cfg = await self.hass.async_add_executor_job(
             get_config,

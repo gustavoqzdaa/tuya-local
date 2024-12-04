@@ -379,7 +379,7 @@ Further device support has been made with the assistance of users. Please consid
 - [DanielRitter75](https://github.com/DanielRitter75) for assisting with support for Teberno LED strip lights.
 - [christhehoff](https://github.com/christhehoff) for contributing support for Holman WX2 dual tap timers.
 - [alexkn](https://github.com/alexkn) for contributing support for Trotec PAC-W 2600 SH heatpumps.
-- [bkbartk](https://github.com/bkbartk) for assisting with support for Medion S20 vacuums and contributing improvements after initial implementation.
+- [bkbartk](https://github.com/bkbartk) for assisting with support for Medion S20 and X10 vacuums and contributing improvements after initial implementation.
 - [mastermind85](https://github.com/mastermind85) for assisting with support for MC6 thermostats.
 - [BettySwallocks](https://github.com/BettySwallocks) for assisting with support for Advanced Fires 1500 electric fireplaces.
 - [Striiter](https://github.com/Stritter) for assisting with support for Feyree and WOUEJ EV chargers.
@@ -491,7 +491,7 @@ Further device support has been made with the assistance of users. Please consid
 - [lowebb](https://github.com/lowebb) for contributing support for Wärme Designer wall panel heaters.
 - [mmorenocab](https://github.com/mmorenocab) for assisting with support for Meterk single phase clamp meters.
 - [KoKolaj](https://github.com/KoKolaj) for assisting with support for Tesla Smart XL dehumidifiers.
-- [BenJamesAndo](https://github.com/BenJamesAndo) for contributing support for Lexi Lighting string light WiFi adapter, PCIe mini and pro+ computer power switches and Dream Maker Feel fan.
+- [BenJamesAndo](https://github.com/BenJamesAndo) for contributing support for Lexi Lighting string light WiFi adapter, PCIe mini and pro+ computer power switches, Dream Maker Feel fan and Goldair portable air conditioner.
 - [LordPsycho202](https://github.com/LordPsycho202) for contributing support for Leo's Loo Too pet toilets.
 - [RoelDU](https://github.com/RoelDU) for assisting with support for Mirabella Genio Pixel oval lights.
 - [toposilva](https://github.com/toposilva) for assisting with support for 1CH dimmer modules.
@@ -612,7 +612,7 @@ Further device support has been made with the assistance of users. Please consid
 - [cw-cdz](https://github.com/cw-cdz) for contributing support for Heatstorm HS-1500 heater.
 - [sveos](https://github.com/sveos) for assisting with support for Nedis ZBRC10WT remote contol.
 - [RoadkillUK](https://github.com/RoadkillUK) for contributing support for Els Pet Spaceship litter box.
-- [dphuk](https://github.com/dphuk) for assisting with ElectriQ DESD8LW V2 dehumidifier.
+- [dphuk](https://github.com/dphuk) for assisting with ElectriQ DESD8LW V2 dehumidifier and Wenzhi WZ35 human presence sensor.
 - [tk627](https://github.com/tk627) for assisting with Minoston 6-preset timer switch.
 - [MobilettoSoft](https://github.com/MobilettoSoft) for contributing support for Wada Power Q8 EV charger.
 - [josiasmontag](https://github.com/josiasmontag) for contributing support for RainPoint water timer.
@@ -737,3 +737,29 @@ Further device support has been made with the assistance of users. Please consid
 - [yurkiv](https://github.com/yurkiv) for contributing support for Moes WHT-009 thermostat.
 - [norfolkmustard](https://github.com/norfolkmustard) for contributing support for ESP Fort EC-SPSP USB smartplug.
 - [alexsperling](https://github.com/alexsperling) for assisting with support for Beok TCB/W38 (RT-70) thermostat.
+- [czarau](https://github.com/czarau) for contributing bugfixes to device connection handling.
+- [broyuken](https://github.com/broyuken) for contributing support for Kilo Plus air purifier.
+- [perimos](https://gituhb.com/perimos) for contributing support for KCvents VT-501 HRV.
+- [Tbaile](https://github.com/Tbaile) for contributing support for Plikc Neve Pro W thermostat.
+- [r08ertliu](https://github.com/r08ertliu) for contributing support for New Widetech WPF-15SW5 fan.
+- [banjohb](https://github.com/banjohb) for assisting with support for Curry Smarter 6-Gen roller shutter switch.
+- [KyleStilkey](https://github.com/KyleStilkey) for assisting with support for GHome SW19 fan and light switch.
+- [johnnyaug](https://github.com/johnnyaug) for contributing improvements to Raykube/Gimdow A1 Pro locks.
+- [akc-kyiv](https://github.com/akc-kyiv) for contributing support for RZTK Aqua Pro humidifier.
+- [Whininie](https://github.com/Whininie) for assisting with support for AF3W pet feeder.
+- [AppelBoomHD](https://github.com/AppelBoomHD) for contributing support for Nince RGB LED strip.
+- [brunohenriquy](https://github.com/brunohenriquy) for contributing support for HLG Infinity alarm.
+- [kcoffau](https://github.com/kcoffau) for assisting with support for Spa Electrics Iris light controller.
+- [rale](https://github.com/rale) for contributing improvements to Ryra TYTE-D1 thermostat.
+- [marleshi](https://github.com/marleshi) for assisting with support for Zemismart SDM01 energy meter.
+- [MigSo](https://github.com/MigSo) for contributing support for VTA+ Axial fan heater.
+- [Steefph](https://github.com/Steefph) for contributing support for EZAIoT thermostat smartplug.
+- [witulu](https://github.com/witulu) for contributing support for Airrobo P20 vacuum.
+- [Ladida1](https://github.com/Ladida1) for contributing support for Deltaco LED strip.
+- [ncd7](https://github.com/ncd7) for contributing support for Friedrich Uni-fit air conditioners and Richelieu LED puck.
+- [blitzdose](https://github.com/blitzdose) for contributing support for Myuet ME82 thermostat.
+- [PipoCanaja](https://github.com/PipoCanaja) for contributing support for Eeese Emil dehumidifier.
+- [flapedriza](https://github.com/flapedriza) for contributing support for Viflykoo EM3390TF weather station.
+- [bwarden](https://github.com/bwarden) for contributing support for OmniBreeze tower fan.
+- [ASk1](https://github.com/ASk1) for assisting with support for Zemismart SPM01 zigbee energy meter.
+- [Nas-au](https://github.com/Nas-au) for assisting with support for Universal remote controllers.

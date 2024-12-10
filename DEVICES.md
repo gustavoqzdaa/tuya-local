@@ -299,6 +299,7 @@
 - Klarta Stor 2 air purifier
 - Kogan air purifier
 - Lifubide X600 air purifier
+- Morento HY4866-WF air purifier
 - NAC AP470 air purifier
 - NX-100AP Rapid air purifier
 - Poiema One air purifier
@@ -321,6 +322,7 @@
 - AlecoAir D16 purifying dehumidifier
 - AlecoAir D25 Traditio dehumidifier
 - Argo Dry Pury Evo WF dehumidifier
+- Cecotec BigDry 4000 dehumidifier
 - Cleverio AD100 dehumidifier
 - DH-CSK03W dehumidifier
 - Ebac DJ4000 dehumidifier
@@ -442,6 +444,7 @@
 - Stepuptech SPD800 solar inverter
 - Taxnele circuit breaker and energy meter
 - TOMPD-63LW energy meter circuit breaker
+- TOMPD-63-WIFI energy meter circuit breaker
 - Tongou QCB2-WB WiFi 4P circuit breaker (3-phase and single phase variants)
 - Tongou SMR1 circuit breaker
 - Tongou ST463JWT 4P 3-phase circuit breaker
@@ -586,8 +589,10 @@ of device.
 - Unbranded 1CH dimmer module
 - Unbranded dual dimmer module
 - A60 1800-2700K RGBWW light
+- Asahom S105A-C outdoor lighting
 - Atomi smart color string light
 - Blitzwolf BW-LT31 LED strip
+- Brizlabs string lights
 - Calex S45 Clear E27 lightbulb
 - Deltaco LED Strip (SH-LW5M)
 - Deta/Arlec motion sensor lights (DET100HA/DET102HA/MAL315HA)
@@ -629,6 +634,7 @@ of device.
 - Space Dog Music Lamp (works for Aurora Smart Galaxy Star)
 - Tampa Magnetic LED System CD-TY-WY05
 - Teberno LED strip light (LGC-005 OEM3)
+- Tech Inc 3m neon strip
 - Treatlife outdoor dimmer with dual outlets
 - Ustellar UT99911 RGB monitor light bar
 - Xinled XLD-CL002 RGBCW lightbulb
@@ -792,6 +798,7 @@ port and password.
 - iPettie W5 pet feeder
 - Leo's Loo Too pet toilet
 - Littepets MA2 series Cute Baby cat litter box
+- Mypin 6L Video pet feeder
 - Nedis pet feeder
 - Petlibro PLAF103 pet feeder
 - Petlibro PLAF203 pet feeder with camera
@@ -827,6 +834,7 @@ port and password.
 - Holman WX1 tap timer (sprinkler controller)
 - Holman WX2 dual tap timer
 - Holman WX8 8 sprinkler irrigation controller
+- Neptun Smart water leak control system
 - Qoto 03 smart water valve / sprinkler controller
 - Qoto 05 smart water valve / sprinkler controller
 - SH07-8 / SH07S-TY smart sprinkler controller (sold as Aquarobo, Leictory LK06 and other brands)

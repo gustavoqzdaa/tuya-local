@@ -1,11 +1,7 @@
-name: Circuit breaker energy meter
+name: Breaker energy meter
 products:
-  - id: rrmpzckqm5pfd642
-    name: TOMPD-63LW
-  - id: psjg8ldomxnelfp5
-    name: TOMZN-63A
-  - id: u0cxoxtfelys3ufx
-    name: TOMPD-63LW
+  - id: wcihaluccfsoayqa
+    name: TOMPD-63WIFI
 primary_entity:
   entity: switch
   icon: "mdi:fuse"
@@ -46,16 +42,6 @@ secondary_entities:
       - id: 12
         type: boolean
         name: button
-        optional: true
-  - entity: button
-    name: Refresh sensors
-    class: restart
-    category: config
-    dps:
-      - id: 106
-        type: boolean
-        name: button
-        optional: true
   - entity: sensor
     name: Balance energy
     category: diagnostic
@@ -76,7 +62,6 @@ secondary_entities:
       - id: 14
         type: integer
         name: value
-        optional: true
         unit: kWh
         range:
           min: 0
@@ -93,16 +78,6 @@ secondary_entities:
         name: sensor
         unit: mA
         class: measurement
-        optional: true
-  - entity: button
-    name: Earth leak test
-    icon: "mdi:current-ac"
-    category: config
-    dps:
-      - id: 21
-        type: boolean
-        name: button
-        optional: true
   - entity: sensor
     class: energy
     dps:
@@ -113,6 +88,48 @@ secondary_entities:
         class: total_increasing
         mapping:
           - scale: 100
+  - entity: binary_sensor
+    class: problem
+    category: diagnostic
+    dps:
+      - id: 9
+        type: bitfield
+        name: sensor
+        optional: true
+        mapping:
+          - dps_val: 0
+            value: false
+          - dps_val: null
+            value: false
+          - value: true
+      - id: 9
+        type: bitfield
+        name: fault_code
+        optional: true
+  - entity: number
+    name: Voltage protection time
+    category: config
+    icon: "mdi:timer"
+    dps:
+      - id: 104
+        type: integer
+        name: value
+        unit: sec
+        range:
+          min: 1
+          max: 30
+  - entity: number
+    name: Voltage recovery time
+    category: config
+    icon: "mdi:timer"
+    dps:
+      - id: 105
+        type: integer
+        name: value
+        unit: sec
+        range:
+          min: 1
+          max: 500
   - entity: sensor
     class: voltage
     category: diagnostic
@@ -149,62 +166,3 @@ secondary_entities:
         mask: "0000000000FFFFFF"
         mapping:
           - scale: 1000
-  - entity: binary_sensor
-    class: problem
-    category: diagnostic
-    dps:
-      - id: 9
-        type: bitfield
-        name: sensor
-        optional: true
-        mapping:
-          - dps_val: 0
-            value: false
-          - dps_val: null
-            value: false
-          - value: true
-      - id: 9
-        type: bitfield
-        name: fault_code
-        optional: true
-  - entity: button
-    translation_key: factory_reset
-    category: config
-    dps:
-      - id: 34
-        type: boolean
-        name: button
-        optional: true
-  - entity: button
-    name: Clear energy
-    class: restart
-    category: config
-    dps:
-      - id: 101
-        type: boolean
-        name: button
-        optional: true
-  - entity: sensor
-    class: power_factor
-    category: diagnostic
-    dps:
-      - id: 104
-        type: integer
-        optional: true
-        name: sensor
-        unit: "%"
-        class: measurement
-        mapping:
-          - scale: 10
-  - entity: sensor
-    class: frequency
-    category: diagnostic
-    dps:
-      - id: 105
-        type: integer
-        optional: true
-        name: sensor
-        unit: Hz
-        class: measurement
-        mapping:
-          - scale: 10

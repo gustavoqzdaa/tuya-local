@@ -459,7 +459,7 @@ Further device support has been made with the assistance of users. Please consid
 - [tsaouste](https://github.com/tsaouste) for assisting with support for CNC YCB9ZF-100W circuit breakers.
 - [MakeItBetterSAGL](https://github.com/MakeItBetterSAGL) for assisting with support for Sonnenkonig ECO 700 heaters.
 - [WoulterBlancquaert-TomTom](https://github.com/WoulterBlancquaert-TomTom) for contributing support for another variant of Eurom Alutherm 2000 heaters.
-- [aver-ua](https://github.com/aver-ua) for assisting with support for Tongou QCB2-WB circuit breakers.
+- [aver-ua](https://github.com/aver-ua) for assisting with support for Tongou QCB2-WB circuit breaker and Moes PTZ indoor camera.
 - [Sh4r0](https://github.com/Sh4r0) for assisting with support for Tesvor S6 vacuums.
 - [wholly1971](https://github.com/wholly1971) for assisting with support for Madimack Eco pool heatpumps.
 - [rbrtwillis](https://github.com/rbrtwillis) for assisting with support for Inkbird IHC-200 humidity controllers.
@@ -776,3 +776,5 @@ Further device support has been made with the assistance of users. Please consid
 - [GvidasLTU](https://github.com/GvidasLTU) for contributing improvements to Beca BHT002 thermostat.
 - [Nero-Mic](https://github.com/Nero-Mic) for assisting with support for Poolex Ice Spa 70 heat pump.
 - [daviddreher2](https://github.com/daviddreher2) for contributing support for Lucci Connect Wi-Fi fan remote.
+- [janouskovec](https://github.com/janouskovec) for contributing support for EZAIoT R9Lite thermostat.
+- [Flo0008](https://github.com/Flo0008) for assisting with support for Sboard III mini Weigand access control interface.

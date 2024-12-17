@@ -188,6 +188,7 @@
 - ETOP-FCU thermostat (Jaga JRT-100TW)
 - ETOP-HP thermostat (CH7100)
 - ETOP-HT thermostat
+- EZAIoT R9Lite thermostat
 - EZAIoT thermostat smartplug
 - Hysen HY02TP thermostat
 - Hysen HY08ACF thermostat
@@ -734,6 +735,7 @@ work reliably, even if listed below.
 - BSTUOKEY access control keypad
 - Lucking HF06 smart lock
 - Orion Grid Connect smart lock
+- Sboard III mini Weigand access control interface
 - SmarDeer Lock33 smart lock
 - Tediton K7 smart lock
 - NovaDigital SL-06 smart lock
@@ -769,6 +771,7 @@ port and password.
 - Kerui 200W camera
 - Kerui JS-P162 300W camera
 - LSC PTZ camera
+- Moes PTZ indoor security camera
 - Nedis outdoor camera
 - Pinelake BF02 birdfeeder camera
 - RL video intercom (reported unable to connect)

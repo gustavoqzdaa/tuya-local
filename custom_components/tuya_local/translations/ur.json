@@ -449,6 +449,24 @@
                     "preheat": "پری ہیٹ"
                 }
             },
+            "scene": {
+                "name": "منظر",
+                "state": {
+                    "relax": "آرام",
+                    "movie": "فلم",
+                    "party": "پارٹی",
+                    "romantic": "رومانٹک",
+                    "night": "رات",
+                    "morning": "صبح",
+                    "working": "کام",
+                    "leisure": "فراغت",
+                    "vacation": "چھٹی",
+                    "reading": "پڑھائی",
+                    "twinkle": "چمک",
+                    "gaming": "گیمنگ",
+                    "none": "کوئی نہیں"
+                }
+            },
             "timer": {
                 "name": "ٹائمر",
                 "state": {
@@ -538,6 +556,16 @@
             }
         },
         "sensor": {
+            "air_quality": {
+                "name": "ہوا کی معیار",
+                "state": {
+                    "excellent": "شاندار",
+                    "good": "اچھا",
+                    "moderate": "معتدل",
+                    "poor": "خراب",
+                    "severe": "شدید"
+                }
+            },
             "status": {
                 "name": "حالت",
                 "state": {
@@ -621,6 +649,16 @@
                     "pause": "پکانا معطل ہوگیا"
                 }
             },
+            "water_level": {
+                "name": "پانی کی سطح",
+                "state": {
+                    "full": "مکمل",
+                    "high": "زیادہ",
+                    "medium": "درمیانہ",
+                    "low": "کم",
+                    "empty": "خالی"
+                }
+            },
             "energy_produced": {
                 "name": "پیدا کردہ بجلی"
             },
@@ -632,6 +670,15 @@
             },
             "energy_consumed_x": {
                 "name": "استعمال کردہ بجلی {x}"
+            },
+            "current_x": {
+                "name": "موجودہ {x}"
+            },
+            "voltage_x": {
+                "name": "وولٹیج {x}"
+            },
+            "power_x": {
+                "name": "پاور {x}"
             }
         },
         "switch": {
@@ -647,11 +694,25 @@
             "keytone": {
                 "name": "کی پیڈ ٹون"
             },
+            "outlet_x": {
+                "name": "آؤٹ لیٹ {x}"
+            },
             "sleep": {
                 "name": "سونا"
             },
+            "switch_x": {
+                "name": "سوئچ {x}"
+            },
+            "electrolytic_sterilization": {
+                "name": "الیکٹرولائٹک نس بندی"
+            },
             "uv_sterilization": {
                 "name": "UV نس بندی"
+            }
+        },
+        "text": {
+            "scene": {
+                "name": "منظر"
             }
         }
     }

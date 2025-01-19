@@ -446,6 +446,24 @@
                     "preheat": "Rozgrzewanie"
                 }
             },
+            "scene": {
+                "name": "Scena",
+                "state": {
+                    "relax": "Relaks",
+                    "movie": "Film",
+                    "party": "Impreza",
+                    "romantic": "Romantyczny",
+                    "night": "Noc",
+                    "morning": "Ranek",
+                    "working": "Praca",
+                    "leisure": "Wolny czas",
+                    "vacation": "Wakacje",
+                    "reading": "Czytanie",
+                    "twinkle": "Migotanie",
+                    "gaming": "Gry",
+                    "none": "Brak"
+                }
+            },
             "timer": {
                 "name": "Regulator czasowy",
                 "state": {
@@ -536,6 +554,16 @@
             }
         },
         "sensor": {
+            "air_quality": {
+                "name": "Jakość powietrza",
+                "state": {
+                    "excellent": "Doskonała",
+                    "good": "Dobra",
+                    "moderate": "Umiarkowana",
+                    "poor": "Zła",
+                    "severe": "Bardzo zła"
+                }
+            },
             "status": {
                 "name": "Status",
                 "state": {
@@ -619,6 +647,16 @@
                     "pause": "Gotowanie wstrzymane"
                 }
             },
+            "water_level": {
+                "name": "Poziom wody",
+                "state": {
+                    "full": "Pełny",
+                    "high": "Wysoki",
+                    "medium": "Średni",
+                    "low": "Niski",
+                    "empty": "Pusty"
+                }
+            },
             "energy_produced": {
                 "name": "Energia wyprodukowana"
             },
@@ -630,6 +668,15 @@
             },
             "energy_consumed_x": {
                 "name": "Energia zużyta {x}"
+            },
+            "current_x": {
+                "name": "Prąd {x}"
+            },
+            "voltage_x": {
+                "name": "Napięcie {x}"
+            },
+            "power_x": {
+                "name": "Moc {x}"
             }
         },
         "switch": {
@@ -645,11 +692,25 @@
             "keytone": {
                 "name": "Dzwięk klawiszy"
             },
+            "outlet_x": {
+                "name": "Gniazdko {x}"
+            },
             "sleep": {
                 "name": "Tryb uśpienia"
             },
+            "switch_x": {
+                "name": "Przełącznik {x}"
+            },
+            "electrolytic_sterilization": {
+                "name": "Elektrolityczna sterylizacja"
+            },
             "uv_sterilization": {
                 "name": "Sterylizacja UV"
+            }
+        },
+        "text": {
+            "scene": {
+                "name": "Scena"
             }
         }
     }

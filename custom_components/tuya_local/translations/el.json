@@ -446,6 +446,24 @@
                     "preheat": "Προθέρμανση"
                 }
             },
+            "scene": {
+                "name": "Σκηνή",
+                "state": {
+                    "relax": "Χαλάρωση",
+                    "movie": "Ταινία",
+                    "party": "Πάρτι",
+                    "romantic": "Ρομαντικό",
+                    "night": "Νύχτα",
+                    "morning": "Πρωί",
+                    "working": "Εργασία",
+                    "leisure": "Αναψυχή",
+                    "vacation": "Διακοπές",
+                    "reading": "Ανάγνωση",
+                    "twinkle": "Λάμψη",
+                    "gaming": "Παιχνίδι",
+                    "none": "Καμία"
+                }
+            },
             "timer": {
                 "name": "Χρονοδιακόπτης",
                 "state": {
@@ -535,6 +553,16 @@
             }
         },
         "sensor": {
+            "air_quality": {
+                "name": "Ποιότητα αέρα",
+                "state": {
+                    "excellent": "Εξαιρετική",
+                    "good": "Καλή",
+                    "moderate": "Μέτρια",
+                    "poor": "Κακή",
+                    "severe": "Σοβαρή"
+                }
+            },
             "status": {
                 "name": "Κατάσταση",
                 "state": {
@@ -618,6 +646,16 @@
                     "pause": "Παύση μαγειρέματος"
                 }
             },
+            "water_level": {
+                "name": "Επίπεδο νερού",
+                "state": {
+                    "full": "Πλήρες",
+                    "high": "Υψηλό",
+                    "medium": "Μεσαίο",
+                    "low": "Χαμηλό",
+                    "empty": "Άδειο"
+                }
+            },
             "energy_produced": {
                 "name": "Ενέργεια που παράχθηκε"
             },
@@ -629,6 +667,15 @@
             },
             "energy_consumed_x": {
                 "name": "Ενέργεια που καταναλώθηκε {x}"
+            },
+            "current_x": {
+                "name": "Ρεύμα {x}"
+            },
+            "voltage_x": {
+                "name": "Τάση {x}"
+            },
+            "power_x": {
+                "name": "Ισχύς {x}"
             }
         },
         "switch": {
@@ -644,11 +691,25 @@
             "keytone": {
                 "name": "Ήχος κουμπιών"
             },
+            "outlet_x": {
+                "name": "Πρίζα {x}"
+            },
             "sleep": {
                 "name": "Αναμονή"
             },
+            "switch_x": {
+                "name": "Διακόπτης {x}"
+            },
+            "electrolytic_sterilization": {
+                "name": "Ηλεκτρολυτική αποστείρωση"
+            },
             "uv_sterilization": {
                 "name": "Αποστείρωση UV"
+            }
+        },
+        "text": {
+            "scene": {
+                "name": "Σκηνή"
             }
         }
     }

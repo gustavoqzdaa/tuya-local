@@ -446,6 +446,24 @@
                     "preheat": "Предварително загряване"
                 }
             },
+            "scene": {
+                "name": "Сцена",
+                "state": {
+                    "relax": "Релаксирайте",
+                    "movie": "Филм",
+                    "party": "Парти",
+                    "romantic": "Романтично",
+                    "night": "Нощ",
+                    "morning": "Сутрин",
+                    "working": "Работа",
+                    "leisure": "Свободно време",
+                    "vacation": "Ваканция",
+                    "reading": "Четене",
+                    "twinkle": "Мигащо",
+                    "gaming": "Игри",
+                    "none": "Няма"
+                }
+            },
             "timer": {
                 "name": "Таймер",
                 "state": {
@@ -536,6 +554,16 @@
             }
         },
         "sensor": {
+            "air_quality": {
+                "name": "Качество на въздуха",
+                "state": {
+                    "excellent": "Отлично",
+                    "good": "Добро",
+                    "moderate": "Умерен",
+                    "poor": "Лошо",
+                    "severe": "Тежко"
+                }
+            },
             "status": {
                 "name": "Статус",
                 "state": {
@@ -619,6 +647,16 @@
                     "pause": "Пауза за готвене"
                 }
             },
+            "water_level": {
+                "name": "Ниво на водата",
+                "state": {
+                    "full": "Пълна",
+                    "high": "Висока",
+                    "medium": "Средна",
+                    "low": "Ниска",
+                    "empty": "Празна"
+                }
+            },
             "energy_produced": {
                 "name": "Произведена енергия"
             },
@@ -630,6 +668,15 @@
             },
             "energy_consumed_x": {
                 "name": "Консумирана енергия {x}"
+            },
+            "current_x": {
+                "name": "Текущ {x}"
+            },
+            "voltage_x": {
+                "name": "Напрежение {x}"
+            },
+            "power_x": {
+                "name": "Мощност {x}"
             }
         },
         "switch": {
@@ -645,11 +692,25 @@
             "keytone": {
                 "name": "Клавишен тон"
             },
+            "outlet_x": {
+                "name": "Изход {x}"
+            },
             "sleep": {
                 "name": "Сън"
             },
+            "switch_x": {
+                "name": "Превключване {x}"
+            },
+            "electrolytic_sterilization": {
+                "name": "Електролизна стерилизация"
+            },
             "uv_sterilization": {
                 "name": "UV стерилизация"
+            }
+        },
+        "text": {
+            "scene": {
+                "name": "Сцена"
             }
         }
     }

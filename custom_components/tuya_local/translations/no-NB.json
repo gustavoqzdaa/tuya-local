@@ -447,6 +447,24 @@
                     "preheat": "Forvarm"
                 }
             },
+            "scene": {
+                "name": "Scene",
+                "state": {
+                    "relax": "Slapp av",
+                    "movie": "Film",
+                    "party": "Fest",
+                    "romantic": "Romantisk",
+                    "night": "Natt",
+                    "morning": "Morgen",
+                    "working": "Arbeid",
+                    "leisure": "Fritid",
+                    "vacation": "Ferie",
+                    "reading": "Lesing",
+                    "twinkle": "Blink",
+                    "gaming": "Spill",
+                    "none": "Ingen"
+                }
+            },
             "timer": {
                 "name": "Timer",
                 "state": {
@@ -536,6 +554,16 @@
             }
         },
         "sensor": {
+            "air_quality": {
+                "name": "Luftkvalitet",
+                "state": {
+                    "excellent": "Utmerket",
+                    "good": "God",
+                    "moderate": "Moderat",
+                    "poor": "Dårlig",
+                    "severe": "Alvorlig"
+                }
+            },
             "status": {
                 "name": "Status",
                 "state": {
@@ -619,6 +647,16 @@
                     "pause": "Matlaging pause"
                 }
             },
+            "water_level": {
+                "name": "Vannivå",
+                "state": {
+                    "full": "Full",
+                    "high": "Høy",
+                    "medium": "Medium",
+                    "low": "Lav",
+                    "empty": "Tom"
+                }
+            },
             "energy_produced": {
                 "name": "Energi produsert"
             },
@@ -630,6 +668,15 @@
             },
             "energy_consumed_x": {
                 "name": "Energi forbrukt {x}"
+            },
+            "current_x": {
+                "name": "Strøm {x}"
+            },
+            "voltage_x": {
+                "name": "Spenning {x}"
+            },
+            "power_x": {
+                "name": "Effekt {x}"
             }
         },
         "switch": {
@@ -645,11 +692,25 @@
             "keytone" : {
                 "name": "Tastaturtone"
             },
+            "outlet_x": {
+                "name": "Uttak {x}"
+            },
             "sleep": {
                 "name": "Søvnmodus"
             },
+            "switch_x": {
+                "name": "Bryter {x}"
+            },
+            "electrolytic_sterilization": {
+                "name": "Elektrolytisk sterilisering"
+            },
             "uv_sterilization": {
                 "name": "UV-sterilisering"
+            }
+        },
+        "text": {
+            "scene": {
+                "name": "Scene"
             }
         }
     }

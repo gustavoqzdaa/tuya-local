@@ -447,6 +447,24 @@
                     "preheat": "預熱"
                 }
             },
+            "scene": {
+                "name": "場景",
+                "state": {
+                    "relax": "放鬆",
+                    "movie": "電影",
+                    "party": "派對",
+                    "romantic": "浪漫",
+                    "night": "夜晚",
+                    "morning": "早晨",
+                    "working": "工作",
+                    "leisure": "休閒",
+                    "vacation": "度假",
+                    "reading": "閱讀",
+                    "twinkle": "閃爍",
+                    "gaming": "遊戲",
+                    "none": "無"
+                }
+            },
             "timer": {
                 "name": "計時器",
                 "state": {
@@ -536,6 +554,16 @@
             }
         },
         "sensor": {
+            "air_quality": {
+                "name": "空氣質量",
+                "state": {
+                    "excellent": "優",
+                    "good": "良",
+                    "moderate": "中",
+                    "poor": "差",
+                    "severe": "極差"
+                }
+            },
             "status": {
                 "name": "狀態",
                 "state": {
@@ -619,6 +647,16 @@
                     "pause": "烹飪暫停"
                 }
             },
+            "water_level": {
+                "name": "水量",
+                "state": {
+                    "empty": "空",
+                    "low": "低",
+                    "medium": "中",
+                    "high": "高",
+                    "full": "滿"
+                }
+            },
             "energy_produced": {
                 "name": "能量產生"
             },
@@ -630,6 +668,15 @@
             },
             "energy_consumed_x": {
                 "name": "能量消耗{x}"
+            },
+            "current_x": {
+                "name": "電流{x}"
+            },
+            "voltage_x": {
+                "name": "電壓{x}"
+            },
+            "power_x": {
+                "name": "功率{x}"
             }
         },
         "switch": {
@@ -645,11 +692,25 @@
             "keytone": {
                 "name": "按鍵音"
             },
+            "outlet_x": {
+                "name": "插座{x}"
+            },
             "sleep": {
                 "name": "睡眠模式"
             },
+            "switch_x": {
+                "name": "開關{x}"
+            },
             "uv_sterilization": {
                 "name": "紫外線消毒"
+            },
+            "electrolytic_sterilization": {
+                "name": "電解消毒"
+            }
+        },
+        "text": {
+            "scene": {
+                "name": "場景"
             }
         }
     }

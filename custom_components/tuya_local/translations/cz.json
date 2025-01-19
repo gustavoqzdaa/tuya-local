@@ -446,6 +446,24 @@
                     "preheat": "Předehřátí"
                 }
             },
+            "scene": {
+                "name": "Scéna",
+                "state": {
+                    "relax": "Relax",
+                    "movie": "Film",
+                    "party": "Večírek",
+                    "romantic": "Romantický",
+                    "night": "Noc",
+                    "morning": "Ráno",
+                    "working": "Práce",
+                    "leisure": "Volný čas",
+                    "vacation": "Dovolená",
+                    "reading": "Čtení",
+                    "twinkle": "Blikání",
+                    "gaming": "Hraní her",
+                     "none": "Žádný"
+                }
+            },
             "timer": {
                 "name": "Časovač",
                 "state": {
@@ -535,6 +553,16 @@
             }
         },
         "sensor": {
+            "air_quality": {
+                "name": "Kvalita vzduchu",
+                "state": {
+                    "excellent": "Výborná",
+                    "good": "Dobrá",
+                    "moderate": "Střední",
+                    "poor": "Špatná",
+                    "severe": "Velmi špatná"
+                }
+            },
             "status": {
                 "name": "Stav",
                 "state": {
@@ -618,6 +646,16 @@
                     "pause": "Vaření pozastaveno"
                 }
             },
+            "water_level": {
+                "name": "Úroveň vody",
+                "state": {
+                    "full": "Plný",
+                    "high": "Vysoký",
+                    "medium": "Střední",
+                    "low": "Nízký",
+                    "empty": "Prázdný"
+                }
+            },
             "energy_produced": {
                 "name": "Vyprodukována energie"
             },
@@ -629,6 +667,15 @@
             },
             "energy_consumed_x": {
                 "name": "Spotřebována energie {x}"
+            },
+            "current_x": {
+                "name": "Proud {x}"
+            },
+            "voltage_x": {
+                "name": "Napětí {x}"
+            },
+            "power_x": {
+                "name": "Výkon {x}"
             }
         },
         "switch": {
@@ -644,11 +691,25 @@
             "keytone": {
                 "name": "Tón kláves"
             },
+            "outlet_x": {
+                "name": "Zásuvka {x}"
+            },
             "sleep": {
                 "name": "Spát"
             },
+            "switch_x": {
+                "name": "Přepínač {x}"
+            },
+            "electrolytic_sterilization": {
+                "name": "Elektrolytická sterilizace"
+            },
             "uv_sterilization": {
                 "name": "UV sterilizace"
+            }
+        },
+        "text": {
+            "scene": {
+                "name": "Scéna"
             }
         }
     }

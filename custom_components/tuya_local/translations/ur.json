@@ -182,6 +182,7 @@
                 }
             },
             "thermostat": {
+                "name": "تھرموسٹیٹ",
                 "state_attributes": {
                     "fan_mode": {
                         "state": {
@@ -306,7 +307,8 @@
                             "medium": "درمیانہ",
                             "high": "زیادہ",
                             "continuous": "مسلسل",
-                            "intermittent": "منقطع"
+                            "intermittent": "منقطع",
+                            "timer": "ٹائمر"
                         }
                     }
                 }
@@ -442,6 +444,8 @@
                     "cake": "کیک",
                     "bread": "روٹی",
                     "toast": "ٹوسٹ",
+                    "sausage": "سوسیج",
+                    "dry_fruit": "خشک پھل",
                     "custom": "اپنی مرضی",
                     "cloud_recipe": "کلاؤڈ ریسیپی",
                     "default": "پہلے سے طے شدہ",

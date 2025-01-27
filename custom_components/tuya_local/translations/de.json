@@ -179,6 +179,7 @@
                 }
             },
             "thermostat": {
+                "name": "Thermostat",
                 "state_attributes": {
                     "fan_mode": {
                         "state": {
@@ -302,7 +303,8 @@
                             "medium": "Mittel",
                             "high": "Hoch",
                             "continuous": "Dauerbetrieb",
-                            "intermittent": "Intervall"
+                            "intermittent": "Intervall",
+                            "timer": "Timer"
                         }
                     }
                 }
@@ -438,6 +440,8 @@
                     "cake": "Kuchen",
                     "bread": "Brot",
                     "toast": "Toast",
+                    "sausage": "Wurst",
+                    "dry_fruit": "Trockenfrüchte",
                     "custom": "Benutzerdefiniert",
                     "cloud_recipe": "Cloud-Rezept",
                     "default": "Standard",

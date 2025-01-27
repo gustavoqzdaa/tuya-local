@@ -179,6 +179,7 @@
                 }
             },
             "thermostat": {
+                "name": "Термостат",
                 "state_attributes": {
                     "fan_mode": {
                         "state": {
@@ -303,7 +304,8 @@
                             "medium": "Средно",
                             "high": "Високо",
                             "continuous": "Непрекъснато",
-                            "intermittent": "Интервално"
+                            "intermittent": "Интервално",
+                            "timer": "Таймер"
                         }
                     }
                 }
@@ -439,6 +441,8 @@
                     "cake": "Торта",
                     "bread": "Хляб",
                     "toast": "Тост",
+                    "sausage": "Наденица",
+                    "dry_fruit": "Сухи плодове",
                     "custom": "Потребителски",
                     "cloud_recipe": "Облак рецепта",
                     "default": "По подразбиране",

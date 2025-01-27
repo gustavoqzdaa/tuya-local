@@ -180,6 +180,7 @@
                 }
             },
             "thermostat": {
+                "name": "Termostat",
                 "state_attributes": {
                     "fan_mode": {
                         "state": {
@@ -304,7 +305,8 @@
                             "medium": "Medium",
                             "high": "Høy",
                             "continuous": "Kontinuerlig",
-                            "intermittent": "Intermitterende"
+                            "intermittent": "Intermitterende",
+                            "timer": "Timer"
                         }
                     }
                 }
@@ -440,6 +442,8 @@
                     "cake": "Kake",
                     "bread": "Brød",
                     "toast": "Toast",
+                    "sausage": "Pølse",
+                    "dry_fruit": "Tørket frukt",
                     "custom": "Egendefinert",
                     "cloud_recipe": "Skyoppskrift",
                     "default": "Standard",

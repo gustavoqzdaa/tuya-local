@@ -179,6 +179,7 @@
                 }
             },
             "thermostat": {
+                "name": "Termostat",
                 "state_attributes": {
                     "fan_mode": {
                         "state": {
@@ -303,7 +304,8 @@
                             "medium": "Střední",
                             "high": "Vysoký",
                             "continuous": "Nepřetržitý",
-                            "intermittent": "Přerušovaný"
+                            "intermittent": "Přerušovaný",
+                            "timer": "Časovač"
                         }
                     }
                 }
@@ -439,6 +441,8 @@
                     "cake": "Koláč",
                     "bread": "Chléb",
                     "toast": "Topinka",
+                    "sausage": "Klobása",
+                    "dry_fruit": "Sušené ovoce",
                     "custom": "Vlastní",
                     "cloud_recipe": "Recept z cloudu",
                     "default": "Výchozí",

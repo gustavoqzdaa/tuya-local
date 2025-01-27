@@ -180,6 +180,7 @@
                 }
             },
             "thermostat": {
+                "name": "Hőmérséklet szabályozó",
                 "state_attributes": {
                     "fan_mode": {
                         "state": {
@@ -304,7 +305,8 @@
                             "medium": "Közepes",
                             "high": "Magas",
                             "continuous": "Folyamatos",
-                            "intermittent": "Időszakos"
+                            "intermittent": "Időszakos",
+                            "timer": "Időzítő"
                         }
                     }
                 }
@@ -440,6 +442,8 @@
                     "cake": "Sütemény",
                     "bread": "Kenyér",
                     "toast": "Pirítós",
+                    "sausage": "Kolbász",
+                    "dry_fruit": "Szárított gyümölcs",
                     "custom": "Egyéni",
                     "cloud_recipe": "Felhő recept",
                     "default": "Alapértelmezett",

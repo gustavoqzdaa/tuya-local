@@ -63,6 +63,7 @@
 - Semptec ZX7007 infrared heater
 - SolAire Vitra S2 panel heater
 - Sonnenkonig Eco 700 IR panel heater (probably also other Eco/Elegance series heaters)
+- Sunred Smart Triangle Dark patio wall heater
 - Taurus Agadir Connect oil column heaters
 - Touchstone Sideline electric fireplace
 - VTA+ Axial fan heater
@@ -190,6 +191,7 @@
 - BHT-002-GABW thermostat _(some compatible with GALW, others subtly different)_
 - Brade MC6 thermostat _(rebadged as many different brands)_
 - Dr Heater DR-008 electric radiant floor thermostat
+- DunWore F60 floor heating thermostat
 - EARU Electronic K6H-3A-W thermostat
 - ETOP-FCU thermostat (Jaga JRT-100TW)
 - ETOP-HP thermostat (CH7100)
@@ -265,6 +267,7 @@
 - Goldair GCPF315 fan
 - Goldair Platinum tower fan (2 variants)
 - Hiper T3 bladeless fan
+- Homebase 12" oscillating fan
 - Hunter Pacific 9 speed ceiling fan with light
 - HYD WeAir Plus bladeless fan with heating function
 - Immax Neo Lite Vento ceiling fan with light
@@ -388,10 +391,12 @@
 - Carro VES1011 humidifier
 - Clean Air Optima CA-604B humidifier
 - Clean Air Optima CA-605B humidifier
+- Clofte Duo 400 humidifier
 - Eanons QT-JS2014 purifying humidifier
 - Inkbird IHC-200 humidity controller
 - Klarta Humea humidifier
 - Kyvol EA200 humidifier
+- OGACFO LFHM055 humidifier
 - RZTK Aqua Pro humidifier
 - Stadler Eva humidifier
 - Stadler Form Karl/Karl Big humidifier
@@ -404,6 +409,7 @@
 - Asakuki aroma diffuser with light (newer devices seem to require the Ditua config below)
 - Cadance ultrasonic aroma diffuser with light and music playback
 - Calex V2 aroma diffuser
+- Delixing KCL-1802A-M aroma diffuser
 - Ditua DT-1522-YN aroma diffuser
 - Etersky aroma diffuser with light
 - Maxico aroma diffuser with light (cannot be differentiated automatically from Ditua above)
@@ -427,6 +433,7 @@
 - Klarstein Amazonia dishwasher
 - Kogan glass 1.7L smart kettle
 - Leoffen LFIM6000 ice cube maker
+- Rohnson R-2858 SmartChef XL soft cooking air fryer
 - Setti+ KT950W smart kettle
 - Silvercrest 1.7L smart kettle
 - Silvercrest coffee maker
@@ -485,6 +492,7 @@
 
 ### Battery Charger
 
+- Absina Wallbox EV charger (also sold as Dé Wallbox and supporting 16, 32, 40 and 50A single and 3-phase variants)
 - AFYEEV 16A portable EV charger
 - AFYEEV 32A 22kW portable EV charger
 - EcoPoint EV charger
@@ -531,7 +539,8 @@ the best option.
 - ES01 3 outlet + USB powerstrip with individual timers
 - ESP Fort EC-SPSP USB and mains smartplug
 - Gosund P1 3 outlet + USB powerstrip with power monitoring
-- Gosund SP112 RTL energy monitoring smartplug with USB
+- Gosund SP112-RTL energy monitoring smartplug with USB
+- Gosund WP9-RTL 3 outlet + USB powerstrip with child lock and initial state
 - Grid Connect double outlet wall socket
 - Grid Connect double outlet with Energy Monitoring, Master and Individual switches and Child Lock
 - Grid Connect USB charger with power socket
@@ -632,6 +641,7 @@ of device.
   optional minimum brightness and bulb type)
 - Feit RGBWW light bulb (like generic RGBWW, but without scene support)
 - Galaxy Projector
+- Gosund SW2 dimmer switch
 - HDMI sync light
 - HDMI TV ambient lighting 65
 - iHD001 LED controller
@@ -695,6 +705,7 @@ of device.
 - Etersky curtain switch with backlight and timing control
 - FS-03W curtain switch with backlight control
 - Graywind window shades
+- GW Motor roller blinds
 - Kogan garage door with tilt sensor
 - KY motor 35W-10 shutter controller
 - Loonas smart curtain
@@ -798,7 +809,7 @@ port and password.
 - Door peephole camera
 - Kerui 200W camera
 - Kerui JS-P162 300W camera
-- LSC Smart Connect dual band outdoor camera 
+- LSC Smart Connect dual band outdoor camera
 - LSC Smart Connect PTZ camera
 - Moes PTZ indoor security camera
 - Nedis outdoor camera
@@ -834,6 +845,7 @@ port and password.
 - iPettie W5 pet feeder
 - Leo's Loo Too pet toilet
 - Littepets MA2 series Cute Baby cat litter box
+- LSC Smart Connect pet feeder
 - Mypin 6L Video pet feeder
 - Nedis pet feeder
 - Petlibro PLAF103 pet feeder
@@ -893,7 +905,7 @@ port and password.
 - CO2-Box air quality monitor
 - C30W gas leak detector
 - CT20W PIR motion detector
-- EM3390TF weather station (tested with Viflykoo branded device, probably identical to the same model number branded as Uzoli, Jely and others) 
+- EM3390TF weather station (tested with Viflykoo branded device, probably identical to the same model number branded as Uzoli, Jely and others)
 - Emax EM3378 Weather Station (selling as Hiper P1 and other rebrands)
 - EPT ultrasonic 3m tank level sensor
 - Goldair Platinum SleepSmart electric blanket
@@ -915,7 +927,7 @@ port and password.
 - PGST PA-010 indoor temperature and humidity sensor
 - PH-W218 water quality monitor
 - PlantsIO Ivy smart planter
-- Protmex PT-19DW alarm clock with temperature and humidity monitor 
+- Protmex PT-19DW alarm clock with temperature and humidity monitor
 - PV28-CW 8 in 1 air quality monitor
 - RSE TY-WFH v3.01 gate controller
 - RTCZ-03 human presence sensor
@@ -937,6 +949,7 @@ port and password.
 - Valehaus SYZN119 towel warmer
 - Weaja WJ-TUYA-S9 gas alarm
 - WeatherStation Pro
+- Wenzhi WZ-100M-W human presence sensor
 - Wenzhi WZ35 human presence sensor
 - Xiumii human presence radar
 - Yieryi water quality monitor (also matches unbranded PH-W3988 device)
@@ -962,6 +975,7 @@ port and password.
 - HCT-626 dual water timer
 - HU06 smart lock
 - Ironzon fingerprint lock
+- KB150A keypad fingerprint lock
 - MoistenLand water timer
 - Nice Digi door lock
 - Orion DL021HA lock

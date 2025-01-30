@@ -173,6 +173,7 @@
 ### Thermostats
 
 - Arlec PCTH01HA temperature/humidity smart switch
+- Atorch AT4PTW DIN rail thermostat
 - Avatto ME81 thermostat
 - Avatto WT100 thermostat
 - Awow/Mi-heat TH213 thermostat (two variants)
@@ -205,6 +206,7 @@
 - Inkbird IPT-2CH v2.0 reptile thermostat
 - Inkbird ITC306A thermostat smartplug
 - Inkbird ITC308 thermostat smartplug
+- Jiahong ET-44W thermostat (also sold under the TheroLife brand)
 - Jiahong ET-72W thermostat
 - Kiturami NCTR-100 water and heating thermostat
 - KKMoon knob thermostat
@@ -375,6 +377,7 @@
 - MeacoDry Arete Two 10L dehumidifier
 - Pro Breeze 30L dehumidifier
 - Qlima D812 and D820A dehumidifiers
+- Rohnson R-9530 dehumidifier
 - Shinco 30D dehumidifier (also matches Klarstein DryFy Connect)
 - Siguro SGR DH-F300W dehumidifier
 - Sygonix Smarter dehumidifier
@@ -439,6 +442,7 @@
 - Silvercrest coffee maker
 - Silvercrest HF-6602T air fryer
 - Ultenic K10 air fryer
+- Wandai GS-801 infant formula maker (sold as Easybaby, Gustino)
 - Weekett smart kettle
 
 ### Smart Meter/Circuit Breaker
@@ -460,6 +464,7 @@
 - ERZ04C smart meter
 - Gaqqee KWS-302-WF energy meter
 - Geonav HISB80A energy meter
+- Ketotek KTEM06pro energy meter
 - MatSee Plus bidirectional two channel clamp meter (multiple variants)
 - Meterk single phase clamp meter
 - Parkside PG/PMW-300 solar inverter
@@ -646,6 +651,7 @@ of device.
 - HDMI TV ambient lighting 65
 - iHD001 LED controller
 - Ion LED WiFi dimmer
+- iSparkle Curtain Micro Lights
 - Kojima motion sensor RGBCW nightlight
 - Ledvance Smart+ Planon panel light with backlight
 - Lexi Lighting string light Wifi adapter
@@ -852,6 +858,7 @@ port and password.
 - Petlibro PLAF203 pet feeder with camera
 - Petoneer Fresco Hydrate Ultra pet fountain (2 versions)
 - Petoneer Fresco Mini pet fountain
+- PetSnowy Snow+ litter box
 - Petrust TK-WF002 pet fountain
 - PNI water feeder
 - Puppy Kitty automatic pet feeder

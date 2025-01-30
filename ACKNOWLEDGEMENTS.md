@@ -825,3 +825,10 @@ Further device support has been made with the assistance of users. Please consid
 - [ShawnBuckley](https://github.com/ShawnBuckley) for contributing support for OGACFO humidifier and improvements to TYTE-D1 thermostat switch.
 - [gurtjun](https://github.com/gurtjun) for contributing support for Sunred Triangle patio heater.
 - [josefelixh](https://github.com/josefelixh) for contributing support for KB15A Bluetooth keypad lock.
+- [JackM-521](https://github.com/JackM-521) for assisting with support for Rohnson R-9530 dehumidifier.
+- [fra-iesus](https://github.com/fra-iesus) for assisting with support for Ketotek KTEM06pro energy meter.
+- [davidjmdev](https://github.com/davidjmdev) for contributing support for PetSnowy Snow+ litter box.
+- [yaro24](https://github.com/yaro24) for contributing support for Jiahong ET-44W thermostat.
+- [point2start](https://github.com/point2start) for assisting with support for Atorch AT4PTW thermostat.
+- [maLLoud86](https://github.com/maLLoud86) for assisting with support for iSparkle Curtain Micro Lights.
+- [josvink66](https://github.com/josvink66) for assisting with support for Easybaby GS-801 infant formula maker.

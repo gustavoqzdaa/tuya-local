@@ -820,7 +820,7 @@ Further device support has been made with the assistance of users. Please consid
 - [DLV111](https://github.com/DLV111) for contributing product details for Arlec downlight matching RGBCW lightbulb.
 - [mikita-liaukovich-epam](https://github.com/mikita-liaukovich-epam) for contributing support for Clofte Duo 400 humidifier.
 - [tal6203](https://github.com/tal6203) for assisting with support for Delixing aroma diffuser.
-- [rclarkmorrow](https://github.com/rclarkmorrow) for contributing support for Powersav AHR-083 powerstrip (which was merged to generic quad powerstrip with timer) and Gosund WP9 powerstrip with USB, child lock and initial state.
+- [rclarkmorrow](https://github.com/rclarkmorrow) for contributing support for Powersav AHR-083 powerstrip (which was merged to generic quad powerstrip with timer), Gosund WP9 powerstrip with USB, child lock and initial state, and Feit garage light (merged with RGBW lightbulb V2).
 - [ralsinn](https://github.com/ralsinn) for contributing support for Absina Wallbox EV charger.
 - [ShawnBuckley](https://github.com/ShawnBuckley) for contributing support for OGACFO humidifier and improvements to TYTE-D1 thermostat switch.
 - [gurtjun](https://github.com/gurtjun) for contributing support for Sunred Triangle patio heater.
@@ -846,4 +846,11 @@ Further device support has been made with the assistance of users. Please consid
 - [ulliohura](https://github.com/ulliohura) for contributing support for Create fan with dimmable light.
 - [MikN313](https://github.com/MikN313) for contributing improvements to Grakit filament dryer.
 - [AlixerVolkov](https://github.com/AlixerVolkov) for assisting with support for LSC Smart Connect outdoor PTZ camera.
-- [Mantrid42](https://github.com/Mantrid42) for contributing support for Kogan LX15 vacuum and mopping robot, Kogan 5 pro air purifier.
+- [Mantrid42](https://github.com/Mantrid42) for contributing support for Kogan LX15 vacuum and mopping robot, Kogan 5 pro air purifier, Kogan aircons (merged into Fisher Summer).
+- [sweetpi](https://github.com/sweetpi) for contributing improvements to Rotenso Ronix heatpump.
+- [n4dwxihyeyhes2](https://github.com/n4dwxihyeyhes2) for contributing support for Vestfrost VP-A1Z40HW air purifier.
+- [UDA-CamB](https://github.com/UDA-CamB) for contributing support for KRain KRX8 irrigation controller.
+- [nickmcgill](https://github.com/nickmcgill) for contributing support for Devola Intelligent heater.
+- [Kappa71](https://github.com/Kappa71) for contributing support for Emerio DH-129238.1 dehumidifier.
+- [diviera](https://github.com/diviera) for contributing support for Moes WS-USR-2C double curtain switch
+- [Enrica-r](https://github.com/Enrica-r) for assisting with support for Haozee water valve.

@@ -16,6 +16,7 @@
 - Cleverio AR10/AR20 panel heaters
 - Create Warm Towel Advance bathroom heater
 - Cronos GPH-D-DA heater
+- Devola Intelligent heater
 - Devola patio heater
 - Dynasty BTX fireplace
 - Ecostrad Accent iQ heating panel
@@ -336,6 +337,7 @@
 - Soleusair A02 and A10 air purifiers
 - Stadler Form Roger air purifier
 - Tesla Smart S300, Pro and Mini air purifiers
+- Vestfrost VP-A1Z40HW air purifier
 - Vork VK6067AW air purifier
 
 ### Dehumidifiers
@@ -366,6 +368,7 @@
 - Eeese Carl dehumidifier
 - Eeese Emil dehumidifier
 - Eeese Otto dehumidifier
+- Emerio DH-129238.1 dehumidifier
 - Goldair GPDH340 dehumidifier
 - Goldair GPDH420 dehumidifier
 - Greenmigo Alpha Q25 dehumidifier
@@ -730,6 +733,7 @@ of device.
 - M027 curtain module (sold under several brands, including zemismart, meterk and others)
 - M515 curtain motor
 - Moes SCS80 Touch curtain switch with backlight and timing control
+- Moes WS-USR-2C double curtain switch with backlight
 - Moes WS-Y-EUC curtain switch with backlight and timing control
 - QS-WIFI-C01(BK) curtain module
 - SHerko curtain motor
@@ -902,10 +906,12 @@ port and password.
 - Aubess Rainpoint TTP106W irrigation system
 - Becasmart BAF-908 irrigation system
 - Garza Wi-Fi garden irrigation system (ITV103W with 433MHz WiFi hub)
+- Haozee water valve
 - Hoenyzy DN15 / DN20 / DN25 gas and water valve timers
 - Holman WX1 tap timer (sprinkler controller)
 - Holman WX2 dual tap timer
 - Holman WX8 8 sprinkler irrigation controller
+- KRain KRX8 irrigation controller
 - Neptun Smart water leak control system
 - Qoto 03 smart water valve / sprinkler controller
 - Qoto 05 smart water valve / sprinkler controller
